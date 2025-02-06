@@ -93,7 +93,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 11093,MS.,AIMEE,HE,1967-09-10,M,F,aimee13@adventure-works.com,100000,0,Graduate Degree,Management,Y
 11094,MR.,CEDRIC,MA,1962-04-01,S,M,cedric15@adventure-works.com,70000,1,Partial College,Skilled Manual,N
 11095,MR.,CHAD,KUMAR,1962-09-01,S,M,chad9@adventure-works.com,70000,1,Partial College,Skilled Manual,Y
-11096,MR.,ANDRÉS,ANAND,1962-08-10,M,M,andrés18@adventure-works.com,60000,1,Bachelors,Professional,Y
+11096,MR.,ANDRï¿½S,ANAND,1962-08-10,M,M,andrï¿½s18@adventure-works.com,60000,1,Bachelors,Professional,Y
 11097,MR.,EDWIN,NARA,1961-10-27,M,M,edwin39@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
 11098,MRS.,MALLORY,RUBIO,1961-05-01,S,F,mallory7@adventure-works.com,60000,1,Partial College,Skilled Manual,N
 11099,MR.,ADAM,ROSS,1961-03-08,M,M,adam2@adventure-works.com,60000,1,Bachelors,Professional,Y
@@ -245,7 +245,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 11250,MRS.,SHANNON,LIU,1955-03-12,M,F,shannon4@adventure-works.com,170000,3,High School,Professional,Y
 11251,MR.,XAVIER,LONG,1932-07-04,S,M,xavier51@adventure-works.com,30000,4,High School,Professional,N
 11252,MR.,NICHOLAS,THOMPSON,1932-06-07,S,M,nicholas16@adventure-works.com,90000,3,Graduate Degree,Management,Y
-11253,MR.,JOSÉ,HERNANDEZ,1933-02-28,M,M,josé54@adventure-works.com,60000,2,Graduate Degree,Management,Y
+11253,MR.,JOSï¿½,HERNANDEZ,1933-02-28,M,M,josï¿½54@adventure-works.com,60000,2,Graduate Degree,Management,Y
 11254,MR.,JOHNATHAN,VANCE,1933-03-03,M,M,johnathan5@adventure-works.com,70000,4,Graduate Degree,Management,Y
 11255,MR.,COLIN,LIN,1933-04-04,M,M,colin8@adventure-works.com,70000,4,Graduate Degree,Management,Y
 11256,MRS.,KATELYN,HERNANDEZ,1933-09-20,M,F,katelyn42@adventure-works.com,70000,4,Graduate Degree,Management,Y
@@ -439,7 +439,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 11448,MR.,KYLE,PATTERSON,1975-04-28,S,M,kyle5@adventure-works.com,80000,0,Bachelors,Professional,Y
 11449,MR.,ALVIN,HU,1975-02-02,M,M,alvin19@adventure-works.com,80000,0,Bachelors,Professional,Y
 11450,MR.,BRETT,MEHTA,1975-11-12,S,M,brett13@adventure-works.com,130000,4,High School,Management,Y
-11451,MR.,RUBEN,MUÑOZ,1974-11-09,S,M,ruben30@adventure-works.com,70000,0,Bachelors,Professional,N
+11451,MR.,RUBEN,MUï¿½OZ,1974-11-09,S,M,ruben30@adventure-works.com,70000,0,Bachelors,Professional,N
 11452,MS.,ERIKA,RUBIO,1973-11-05,S,F,erika18@adventure-works.com,80000,0,Bachelors,Professional,N
 11453,MR.,STANLEY,MALHOTRA,1973-08-21,S,M,stanley5@adventure-works.com,80000,0,Bachelors,Professional,N
 11454,MS.,MELINDA,NAVARRO,1974-04-22,S,F,melinda5@adventure-works.com,80000,0,Bachelors,Professional,N
@@ -1365,7 +1365,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 12386,MS.,KATHERINE,PERRY,1972-04-08,S,F,katherine33@adventure-works.com,20000,0,Partial High School,Manual,N
 12387,MS.,MEREDITH,VAZQUEZ,1972-12-27,S,F,meredith38@adventure-works.com,30000,0,High School,Manual,N
 12388,MS.,CASEY,KUMAR,1972-07-19,S,F,casey8@adventure-works.com,30000,0,High School,Manual,N
-12389,MR.,ALBERT,JIMÉNEZ,1972-07-06,S,M,albert8@adventure-works.com,30000,0,High School,Manual,N
+12389,MR.,ALBERT,JIMï¿½NEZ,1972-07-06,S,M,albert8@adventure-works.com,30000,0,High School,Manual,N
 12390,MRS.,DENISE,MARTINEZ,1972-09-17,S,F,denise18@adventure-works.com,40000,1,Partial College,Clerical,N
 12391,MRS.,OLIVIA,KELLY,1972-02-24,S,F,olivia46@adventure-works.com,40000,2,Partial College,Clerical,Y
 12392,MS.,NICHOLE,NATH,1971-07-26,S,F,nichole18@adventure-works.com,10000,0,Partial High School,Manual,N
@@ -1499,7 +1499,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 12524,MS.,KATE,SHAN,1975-01-24,S,F,kate8@adventure-works.com,30000,0,Partial College,Clerical,Y
 12525,MRS.,CHELSEA,RODRIGUEZ,1975-04-28,M,F,chelsea21@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
 12526,MRS.,MICHELE,SUAREZ,1975-05-19,M,F,michele53@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
-12527,MR.,JOSÉ,RODRIGUEZ,1959-11-24,M,M,josé81@adventure-works.com,60000,4,Graduate Degree,Skilled Manual,Y
+12527,MR.,JOSï¿½,RODRIGUEZ,1959-11-24,M,M,josï¿½81@adventure-works.com,60000,4,Graduate Degree,Skilled Manual,Y
 12528,MR.,DEVIN,WILSON,1959-03-02,S,M,devin5@adventure-works.com,60000,4,Graduate Degree,Skilled Manual,Y
 12529,MR.,ISAIAH,ALLEN,1959-10-11,M,M,isaiah41@adventure-works.com,60000,4,Graduate Degree,Skilled Manual,Y
 12530,MRS.,ISABEL,COLEMAN,1972-05-26,S,F,isabel6@adventure-works.com,40000,4,Partial College,Clerical,Y
@@ -1953,7 +1953,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 12988,MRS.,BARBARA,GOEL,1969-01-26,S,F,barbara47@adventure-works.com,90000,1,Graduate Degree,Management,Y
 12989,MRS.,CARLY,GOEL,1969-11-13,M,F,carly17@adventure-works.com,100000,1,Graduate Degree,Management,Y
 12990,MRS.,LESLIE,HERNANDEZ,1969-10-15,S,F,leslie4@adventure-works.com,100000,1,Graduate Degree,Management,Y
-12991,MR.,JÉSUS,SERRANO,1968-03-12,M,M,jésus15@adventure-works.com,60000,2,Bachelors,Professional,Y
+12991,MR.,Jï¿½SUS,SERRANO,1968-03-12,M,M,jï¿½sus15@adventure-works.com,60000,2,Bachelors,Professional,Y
 12992,MR.,ERNEST,ZENG,1968-10-21,M,M,ernest20@adventure-works.com,60000,2,Bachelors,Professional,Y
 12993,MR.,XAVIER,HENDERSON,1968-12-26,M,M,xavier46@adventure-works.com,60000,2,Bachelors,Professional,Y
 12994,MRS.,ANNA,MARTINEZ,1970-04-09,S,F,anna55@adventure-works.com,80000,4,Graduate Degree,Management,Y
@@ -1970,7 +1970,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 13005,MRS.,DESIREE,ALVAREZ,1966-08-15,M,F,desiree0@adventure-works.com,80000,5,Graduate Degree,Management,N
 13006,MS.,WHITNEY,RANA,1966-04-21,S,F,whitney10@adventure-works.com,90000,0,Bachelors,Professional,N
 13007,MRS.,BROOKE,WARD,1965-10-05,S,F,brooke11@adventure-works.com,60000,2,Bachelors,Professional,N
-13008,MR.,ALBERTO,MUÑOZ,1965-07-09,M,M,alberto8@adventure-works.com,60000,3,Bachelors,Professional,Y
+13008,MR.,ALBERTO,MUï¿½OZ,1965-07-09,M,M,alberto8@adventure-works.com,60000,3,Bachelors,Professional,Y
 13009,MRS.,MINDY,SHE,1965-03-11,M,F,mindy4@adventure-works.com,60000,3,Bachelors,Professional,Y
 13010,MRS.,ERICA,YE,1965-08-16,M,F,erica9@adventure-works.com,60000,3,Bachelors,Professional,Y
 13011,MS.,ANNE,ORTEGA,1965-05-04,S,F,anne22@adventure-works.com,70000,0,Bachelors,Professional,N
@@ -2067,7 +2067,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 13102,MRS.,MARIAH,BRYANT,1957-09-19,S,F,mariah23@adventure-works.com,90000,2,Partial College,Professional,Y
 13103,MR.,BRENDAN,RAJI,1963-08-02,S,M,brendan19@adventure-works.com,70000,0,Bachelors,Professional,N
 13104,MR.,GREGORY,BECKER,1963-04-12,S,M,gregory24@adventure-works.com,70000,0,Bachelors,Professional,N
-13105,MRS.,WHITNEY,KOVÁR,1962-07-02,M,F,whitney4@adventure-works.com,60000,1,Bachelors,Professional,Y
+13105,MRS.,WHITNEY,KOVï¿½R,1962-07-02,M,F,whitney4@adventure-works.com,60000,1,Bachelors,Professional,Y
 13106,MRS.,EBONY,MUNOZ,1962-07-08,M,F,ebony30@adventure-works.com,60000,1,Bachelors,Professional,Y
 13107,MRS.,MARY,NELSON,1962-07-11,M,F,mary22@adventure-works.com,60000,1,Bachelors,Professional,Y
 13108,MR.,CURTIS,WANG,1962-12-26,M,M,curtis2@adventure-works.com,60000,1,Bachelors,Professional,Y
@@ -2181,7 +2181,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 13222,MR.,ARTURO,LIU,1946-03-02,M,M,arturo4@adventure-works.com,70000,4,Bachelors,Management,N
 13223,MR.,NOAH,LEE,1946-07-09,S,M,noah69@adventure-works.com,70000,4,Bachelors,Management,Y
 13224,MRS.,AMANDA,BROOKS,1946-02-11,M,F,amanda19@adventure-works.com,70000,4,Bachelors,Management,Y
-13225,MR.,JÉSUS,SUAREZ,1947-06-22,M,M,jésus18@adventure-works.com,60000,5,Bachelors,Management,N
+13225,MR.,Jï¿½SUS,SUAREZ,1947-06-22,M,M,jï¿½sus18@adventure-works.com,60000,5,Bachelors,Management,N
 13226,MRS.,JENNA,MITCHELL,1947-03-13,M,F,jenna10@adventure-works.com,60000,5,Bachelors,Management,Y
 13227,MR.,ALEXANDER,WILSON,1947-05-25,M,M,alexander12@adventure-works.com,60000,5,Bachelors,Management,Y
 13228,MR.,THOMAS,SANCHEZ,1947-05-01,M,M,thomas4@adventure-works.com,60000,5,Bachelors,Management,Y
@@ -2359,7 +2359,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 13403,MRS.,JENNIFER,JACKSON,1952-05-02,S,F,jennifer40@adventure-works.com,70000,5,Partial College,Professional,Y
 13404,MR.,KELVIN,YANG,1958-09-13,M,M,kelvin24@adventure-works.com,130000,2,Partial College,Professional,Y
 13405,MR.,ETHAN,BRYANT,1957-10-05,M,M,ethan14@adventure-works.com,110000,2,Partial College,Professional,Y
-13406,MR.,CRAIG,JIMÉNEZ,1957-01-05,M,M,craig6@adventure-works.com,130000,2,Partial College,Professional,Y
+13406,MR.,CRAIG,JIMï¿½NEZ,1957-01-05,M,M,craig6@adventure-works.com,130000,2,Partial College,Professional,Y
 13407,MRS.,CASSANDRA,RANA,1957-10-07,S,F,cassandra12@adventure-works.com,150000,2,High School,Professional,N
 13409,MR.,CORY,FERNANDEZ,1955-03-26,M,M,cory14@adventure-works.com,110000,3,Partial College,Professional,Y
 13410,MRS.,JILLIAN,MADAN,1955-11-19,M,F,jillian8@adventure-works.com,110000,3,Partial College,Professional,Y
@@ -2459,7 +2459,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 13509,MR.,LUCAS,JOHNSON,1937-09-04,M,M,lucas14@adventure-works.com,30000,1,Graduate Degree,Clerical,Y
 13510,MR.,JON,SHEN,1940-05-15,M,M,jon43@adventure-works.com,10000,2,Partial College,Manual,Y
 13511,MR.,ERNEST,LIU,1941-05-04,S,M,ernest4@adventure-works.com,10000,2,Partial College,Manual,Y
-13512,MRS.,KEN,SÁNCHEZ,1941-09-28,M,F,ken3@adventure-works.com,10000,2,Partial College,Manual,Y
+13512,MRS.,KEN,Sï¿½NCHEZ,1941-09-28,M,F,ken3@adventure-works.com,10000,2,Partial College,Manual,Y
 13513,MRS.,ABIGAIL,HENDERSON,1941-09-08,M,F,abigail73@adventure-works.com,30000,1,Bachelors,Clerical,Y
 13514,MRS.,LINDSAY,LUO,1942-02-11,S,F,lindsay6@adventure-works.com,10000,3,Partial College,Manual,Y
 13515,MRS.,CARA,LIANG,1942-07-04,M,F,cara12@adventure-works.com,20000,1,Partial College,Manual,Y
@@ -2643,7 +2643,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 13694,MS.,SAVANNAH,GRAY,1971-12-14,S,F,savannah4@adventure-works.com,30000,0,High School,Manual,Y
 13695,MR.,CHRISTIAN,CLARK,1971-04-23,S,M,christian38@adventure-works.com,30000,0,High School,Manual,N
 13696,MRS.,KATHERINE,EDWARDS,1971-11-15,S,F,katherine50@adventure-works.com,40000,2,Partial College,Clerical,Y
-13697,MR.,JÉSUS,MUNOZ,1971-06-24,S,M,jésus6@adventure-works.com,40000,2,Partial College,Clerical,Y
+13697,MR.,Jï¿½SUS,MUNOZ,1971-06-24,S,M,jï¿½sus6@adventure-works.com,40000,2,Partial College,Clerical,Y
 13698,MRS.,CATHERINE,SANCHEZ,1970-10-02,S,F,catherine21@adventure-works.com,40000,2,Partial College,Clerical,Y
 13699,MRS.,RACHEL,ALEXANDER,1975-01-22,S,F,rachel67@adventure-works.com,40000,3,Partial College,Clerical,Y
 13700,MR.,EVAN,HOWARD,1975-03-03,S,M,evan12@adventure-works.com,40000,3,Partial College,Clerical,Y
@@ -2693,7 +2693,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 13745,MR.,ANDREW,ROBINSON,1957-01-28,M,M,andrew25@adventure-works.com,40000,1,Partial College,Clerical,Y
 13746,MRS.,JANELLE,MADAN,1957-02-24,M,F,janelle7@adventure-works.com,40000,1,Partial College,Clerical,Y
 13747,MR.,BRIAN,TORRES,1957-10-11,M,M,brian16@adventure-works.com,40000,1,Partial College,Clerical,Y
-13748,MR.,JOSÉ,MARTINEZ,1958-04-10,M,M,josé79@adventure-works.com,80000,4,Graduate Degree,Skilled Manual,Y
+13748,MR.,JOSï¿½,MARTINEZ,1958-04-10,M,M,josï¿½79@adventure-works.com,80000,4,Graduate Degree,Skilled Manual,Y
 13749,MR.,JULIO,ALONSO,1958-09-22,M,M,julio8@adventure-works.com,80000,4,Graduate Degree,Skilled Manual,Y
 13750,MR.,RAYMOND,SAI,1958-06-03,M,M,raymond7@adventure-works.com,80000,4,Graduate Degree,Skilled Manual,N
 13751,MRS.,ALLISON,RIVERA,1958-09-19,S,F,allison16@adventure-works.com,80000,4,Graduate Degree,Skilled Manual,Y
@@ -3139,7 +3139,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 14204,MRS.,CHELSEA,SARA,1947-08-09,M,F,chelsea11@adventure-works.com,80000,5,Partial High School,Skilled Manual,N
 14205,MR.,WESLEY,WU,1947-04-23,S,M,wesley7@adventure-works.com,90000,5,Partial High School,Skilled Manual,Y
 14206,MR.,EDWIN,WEST,1947-07-06,M,M,edwin1@adventure-works.com,100000,4,Partial High School,Professional,N
-14207,MR.,JOSÉ,SARAIVA,1947-09-21,M,M,josé5@adventure-works.com,110000,4,Partial High School,Professional,Y
+14207,MR.,JOSï¿½,SARAIVA,1947-09-21,M,M,josï¿½5@adventure-works.com,110000,4,Partial High School,Professional,Y
 14208,MR.,EUGENE,XU,1947-08-22,S,M,eugene16@adventure-works.com,120000,5,High School,Management,Y
 14209,MR.,CRAIG,RAMOS,1975-04-09,M,M,craig16@adventure-works.com,60000,0,Bachelors,Professional,Y
 14210,MS.,JENNY,TANG,1976-10-27,M,F,jenny27@adventure-works.com,80000,0,Bachelors,Professional,Y
@@ -3323,7 +3323,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 14390,MR.,LOGAN,KUMAR,1947-11-22,M,M,logan1@adventure-works.com,60000,2,Bachelors,Management,N
 14391,MR.,JASON,LONG,1947-03-08,M,M,jason7@adventure-works.com,70000,4,Bachelors,Management,Y
 14392,MR.,JUSTIN,JACKSON,1947-08-24,M,M,justin31@adventure-works.com,70000,4,Bachelors,Management,Y
-14393,MR.,JOSÉ,PEREZ,1947-10-05,S,M,josé41@adventure-works.com,70000,4,Bachelors,Management,Y
+14393,MR.,JOSï¿½,PEREZ,1947-10-05,S,M,josï¿½41@adventure-works.com,70000,4,Bachelors,Management,Y
 14394,MR.,JACOB,RODRIGUEZ,1947-10-07,M,M,jacob16@adventure-works.com,70000,4,Bachelors,Management,Y
 14395,MR.,DEVIN,REED,1947-03-23,S,M,devin85@adventure-works.com,70000,4,Bachelors,Management,Y
 14396,MRS.,ZOE,SANCHEZ,1948-04-17,S,F,zoe22@adventure-works.com,60000,2,Partial College,Professional,Y
@@ -3750,7 +3750,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 14825,MS.,REBEKAH,ALONSO,1977-03-03,S,F,rebekah28@adventure-works.com,20000,0,High School,Manual,N
 14826,MRS.,STEFANIE,LOPEZ,1979-08-17,M,F,stefanie14@adventure-works.com,20000,4,High School,Manual,N
 14827,MR.,ERNEST,XU,1979-04-04,S,M,ernest12@adventure-works.com,30000,3,Partial College,Clerical,Y
-14828,MR.,HECTOR,MUÑOZ,1979-09-09,S,M,hector5@adventure-works.com,30000,3,Partial College,Clerical,Y
+14828,MR.,HECTOR,MUï¿½OZ,1979-09-09,S,M,hector5@adventure-works.com,30000,3,Partial College,Clerical,Y
 14829,MRS.,GINA,VAZQUEZ,1978-01-15,S,F,gina15@adventure-works.com,30000,3,Partial College,Clerical,Y
 14830,MRS.,ISABELLA,WARD,1963-08-13,M,F,isabella2@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
 14831,MR.,GILBERT,XIE,1963-02-06,M,M,gilbert24@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
@@ -4129,7 +4129,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 15212,MR.,MARCUS,HENDERSON,1961-07-14,M,M,marcus54@adventure-works.com,60000,1,Bachelors,Professional,Y
 15213,MRS.,BRIANA,MARTIN,1961-07-06,M,F,briana0@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
 15214,MS.,AMANDA,JENKINS,1966-11-16,S,F,amanda28@adventure-works.com,100000,0,Graduate Degree,Management,N
-15215,MR.,ALBERTO,JIMÉNEZ,1966-09-25,S,M,alberto7@adventure-works.com,100000,0,Graduate Degree,Management,N
+15215,MR.,ALBERTO,JIMï¿½NEZ,1966-09-25,S,M,alberto7@adventure-works.com,100000,0,Graduate Degree,Management,N
 15216,MRS.,DESIREE,GUTIERREZ,1960-06-16,M,F,desiree7@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
 15217,MR.,ETHAN,JAI,1960-02-19,S,M,ethan28@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
 15218,MR.,WILLIE,JOHNSEN,1965-09-06,S,M,willie30@adventure-works.com,70000,0,Bachelors,Professional,Y
@@ -4340,7 +4340,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 15427,MS.,JADE,MURPHY,1979-11-18,S,F,jade12@adventure-works.com,60000,0,Partial College,Skilled Manual,N
 15428,MR.,RICHARD,HOWARD,1979-05-01,M,M,richard93@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
 15429,MR.,AARON,LI,1979-04-19,M,M,aaron26@adventure-works.com,70000,0,Partial College,Skilled Manual,N
-15430,MR.,ALFREDO,JIMÉNEZ,1978-06-09,M,M,alfredo6@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
+15430,MR.,ALFREDO,JIMï¿½NEZ,1978-06-09,M,M,alfredo6@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
 15431,MR.,JOHN,JACKSON,1978-03-17,M,M,john49@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
 15432,MR.,ALVIN,KUMAR,1978-08-18,S,M,alvin30@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
 15433,MR.,ADAM,SHARMA,1978-08-18,S,M,adam26@adventure-works.com,60000,0,Partial College,Skilled Manual,N
@@ -4578,7 +4578,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 15667,MR.,HECTOR,RAMOS,1970-09-17,M,M,hector15@adventure-works.com,30000,0,Bachelors,Clerical,Y
 15668,MR.,ERICK,FERNANDEZ,1970-02-27,M,M,erick15@adventure-works.com,40000,0,Graduate Degree,Clerical,N
 15669,MS.,PAUL,SUURS,1970-04-24,M,F,paul8@adventure-works.com,40000,0,Graduate Degree,Clerical,Y
-15670,MR.,SERGIO,SÁNCHEZ,1969-08-03,M,M,sergio21@adventure-works.com,20000,0,Partial College,Manual,N
+15670,MR.,SERGIO,Sï¿½NCHEZ,1969-08-03,M,M,sergio21@adventure-works.com,20000,0,Partial College,Manual,N
 15671,MR.,LAWRENCE,TORRES,1969-05-27,S,M,lawrence10@adventure-works.com,20000,0,Partial College,Manual,N
 15672,MR.,KELVIN,NARA,1969-01-19,S,M,kelvin13@adventure-works.com,20000,0,Partial College,Manual,Y
 15673,MR.,JON,GOEL,1969-06-08,S,M,jon16@adventure-works.com,20000,0,Partial College,Manual,N
@@ -4683,7 +4683,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 15775,MRS.,MICHELLE,WARD,1957-12-20,M,F,michelle13@adventure-works.com,60000,2,High School,Professional,N
 15776,MR.,JESSE,MITCHELL,1957-09-13,M,M,jesse36@adventure-works.com,60000,2,High School,Professional,N
 15777,MRS.,BRIANNA,SMITH,1957-01-21,M,F,brianna0@adventure-works.com,60000,2,High School,Professional,N
-15778,MR.,JOSÉ,MILLER,1957-05-10,S,M,josé64@adventure-works.com,70000,2,Partial College,Professional,Y
+15778,MR.,JOSï¿½,MILLER,1957-05-10,S,M,josï¿½64@adventure-works.com,70000,2,Partial College,Professional,Y
 15779,MR.,JACKSON,HAYES,1957-02-18,M,M,jackson24@adventure-works.com,70000,2,Partial College,Professional,Y
 15780,MRS.,CLAUDIA,MCDONALD,1957-05-14,M,F,claudia3@adventure-works.com,70000,3,Partial College,Professional,Y
 15781,MR.,BLAKE,EVANS,1957-04-02,M,M,blake45@adventure-works.com,80000,2,Bachelors,Management,Y
@@ -4928,7 +4928,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 16023,MR.,WILLIE,ZHANG,1947-07-17,S,M,willie1@adventure-works.com,10000,2,High School,Skilled Manual,Y
 16024,MR.,ISAAC,HILL,1978-08-17,M,M,isaac35@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
 16025,MR.,JORGE,SUN,1945-03-07,M,M,jorge15@adventure-works.com,10000,2,Partial High School,Clerical,Y
-16026,MR.,BYRON,JIMÉNEZ,1946-07-10,M,M,byron4@adventure-works.com,30000,2,Partial College,Clerical,N
+16026,MR.,BYRON,JIMï¿½NEZ,1946-07-10,M,M,byron4@adventure-works.com,30000,2,Partial College,Clerical,N
 16027,MRS.,ANNE,VAZQUEZ,1946-08-15,M,F,anne16@adventure-works.com,30000,2,Partial College,Clerical,N
 16028,MR.,CODY,COOPER,1946-01-28,M,M,cody9@adventure-works.com,30000,2,Partial College,Clerical,N
 16029,MRS.,ABBY,PATEL,1946-11-08,M,F,abby2@adventure-works.com,30000,2,Partial College,Clerical,N
@@ -4960,7 +4960,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 16056,MRS.,ALISON,SHAN,1955-09-21,M,F,alison10@adventure-works.com,10000,2,Partial College,Manual,Y
 16057,MRS.,MICHELE,GOMEZ,1955-12-14,M,F,michele36@adventure-works.com,10000,2,Partial College,Manual,Y
 16058,MRS.,MARGARET,ZHANG,1954-06-04,M,F,margaret7@adventure-works.com,10000,2,Partial College,Manual,Y
-16059,MR.,JÉSUS,CARLSON,1938-10-11,M,M,jésus17@adventure-works.com,20000,1,Bachelors,Clerical,Y
+16059,MR.,Jï¿½SUS,CARLSON,1938-10-11,M,M,jï¿½sus17@adventure-works.com,20000,1,Bachelors,Clerical,Y
 16060,MR.,ANTONIO,GRIFFIN,1970-10-27,M,M,antonio21@adventure-works.com,50000,1,Bachelors,Skilled Manual,Y
 16061,MR.,MIGUEL,BUTLER,1970-07-06,M,M,miguel60@adventure-works.com,50000,1,Bachelors,Skilled Manual,Y
 16062,MRS.,KATHERINE,JOHNSON,1970-06-09,M,F,katherine72@adventure-works.com,50000,1,Bachelors,Skilled Manual,Y
@@ -5016,7 +5016,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 16113,MR.,ROGER,LAL,1963-02-13,S,M,roger36@adventure-works.com,70000,4,Bachelors,Professional,N
 16114,MR.,GAVIN,ROSS,1963-03-14,M,M,gavin3@adventure-works.com,70000,4,Bachelors,Professional,Y
 16115,MS.,JENNIFER,DIAZ,1968-06-13,S,F,jennifer95@adventure-works.com,70000,0,Bachelors,Professional,N
-16116,MR.,BEGOÑA,HURTADO,1968-06-06,S,M,begoña0@adventure-works.com,70000,0,Bachelors,Professional,Y
+16116,MR.,BEGOï¿½A,HURTADO,1968-06-06,S,M,begoï¿½a0@adventure-works.com,70000,0,Bachelors,Professional,Y
 16117,MR.,BRAD,LAL,1962-11-02,M,M,brad8@adventure-works.com,40000,4,High School,Skilled Manual,Y
 16118,MR.,JAMES,WRIGHT,1962-09-03,M,M,james70@adventure-works.com,70000,1,Bachelors,Professional,N
 16119,MRS.,HAILEY,WATSON,1961-09-12,M,F,hailey18@adventure-works.com,40000,4,High School,Skilled Manual,Y
@@ -5151,7 +5151,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 16249,MR.,JESSE,RIVERA,1959-12-05,M,M,jesse17@adventure-works.com,60000,4,Graduate Degree,Skilled Manual,N
 16250,MR.,BRENDAN,RAJE,1968-05-21,S,M,brendan12@adventure-works.com,40000,0,Graduate Degree,Clerical,Y
 16251,MRS.,MAKAYLA,HOWARD,1967-03-12,S,F,makayla10@adventure-works.com,10000,3,High School,Manual,Y
-16252,MR.,DANNY,JIMÉNEZ,1967-09-22,S,M,danny6@adventure-works.com,10000,3,Partial High School,Manual,Y
+16252,MR.,DANNY,JIMï¿½NEZ,1967-09-22,S,M,danny6@adventure-works.com,10000,3,Partial High School,Manual,Y
 16253,MRS.,BETHANY,LAL,1967-09-03,S,F,bethany12@adventure-works.com,20000,1,Partial College,Manual,N
 16254,MRS.,MARIA,MORRIS,1967-08-21,S,F,maria2@adventure-works.com,20000,1,Partial College,Manual,N
 16255,MRS.,TAYLOR,RUSSELL,1967-08-22,S,F,taylor44@adventure-works.com,20000,1,Partial College,Manual,N
@@ -5224,7 +5224,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 16323,MR.,DUSTIN,RAJE,1975-04-05,S,M,dustin14@adventure-works.com,30000,0,Partial College,Clerical,Y
 16324,MR.,JUAN,ROMERO,1975-03-19,M,M,juan1@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
 16325,MRS.,EMMA,WILLIAMS,1913-09-10,S,F,emma1@adventure-works.com,30000,1,Partial College,Clerical,Y
-16326,MR.,JÉSUS,ROMERO,1973-01-17,S,M,jésus8@adventure-works.com,10000,0,Partial High School,Manual,N
+16326,MR.,Jï¿½SUS,ROMERO,1973-01-17,S,M,jï¿½sus8@adventure-works.com,10000,0,Partial High School,Manual,N
 16327,MR.,DARREN,DIAZ,1973-03-06,S,M,darren24@adventure-works.com,20000,0,Partial High School,Manual,N
 16328,MR.,MAURICE,RAI,1973-02-15,S,M,maurice18@adventure-works.com,20000,0,Partial High School,Manual,Y
 16329,MS.,JAMIE,YE,1973-12-13,S,F,jamie12@adventure-works.com,20000,0,Partial High School,Manual,N
@@ -5334,7 +5334,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 16434,MRS.,TAYLOR,BAILEY,1964-10-04,M,F,taylor9@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
 16435,MR.,STEVEN,COOPER,1964-07-09,M,M,steven18@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
 16436,MR.,ETHAN,HENDERSON,1963-08-15,S,M,ethan1@adventure-works.com,30000,2,Partial College,Clerical,Y
-16437,MR.,JÉSUS,GUTIERREZ,1977-10-24,S,M,jésus10@adventure-works.com,20000,0,High School,Manual,N
+16437,MR.,Jï¿½SUS,GUTIERREZ,1977-10-24,S,M,jï¿½sus10@adventure-works.com,20000,0,High School,Manual,N
 16438,MS.,KAITLIN,ARTHUR,1976-07-17,M,F,kaitlin6@adventure-works.com,10000,0,Partial High School,Manual,N
 16439,MRS.,DAWN,DENG,1979-10-26,S,F,dawn25@adventure-works.com,20000,4,High School,Manual,Y
 16440,MR.,JIMMY,MARTIN,1979-12-04,S,M,jimmy2@adventure-works.com,20000,4,High School,Manual,Y
@@ -5436,7 +5436,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 16539,MRS.,CHRISTY,LI,1960-01-11,S,F,christy3@adventure-works.com,20000,1,Partial College,Manual,N
 16540,MR.,THEODORE,BROWNING,1960-09-15,M,M,theodore16@adventure-works.com,20000,1,Partial College,Manual,Y
 16541,MR.,MICAH,HU,1960-12-28,S,M,micah8@adventure-works.com,20000,1,Partial College,Manual,N
-16542,MR.,JÉSUS,ORTEGA,1960-06-09,M,M,jésus21@adventure-works.com,20000,1,Partial College,Manual,Y
+16542,MR.,Jï¿½SUS,ORTEGA,1960-06-09,M,M,jï¿½sus21@adventure-works.com,20000,1,Partial College,Manual,Y
 16543,MRS.,JENNY,MCDONALD,1960-06-10,M,F,jenny17@adventure-works.com,20000,1,Partial College,Manual,Y
 16544,MR.,EDUARDO,MORGAN,1959-04-08,M,M,eduardo80@adventure-works.com,10000,1,High School,Manual,Y
 16545,MRS.,ALICIA,PAL,1959-01-12,M,F,alicia10@adventure-works.com,10000,1,High School,Manual,Y
@@ -5492,7 +5492,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 16596,MRS.,GABRIELLE,CARTER,1951-03-28,S,F,gabrielle53@adventure-works.com,70000,5,Partial High School,Skilled Manual,Y
 16597,MRS.,KELLI,XU,1951-03-15,S,F,kelli13@adventure-works.com,100000,3,Partial College,Professional,Y
 16598,MRS.,KATE,RAI,1951-11-03,S,F,kate14@adventure-works.com,130000,4,High School,Professional,N
-16599,MR.,RAMÓN,CAI,1950-05-17,M,M,ramón19@adventure-works.com,150000,4,Bachelors,Management,Y
+16599,MR.,RAMï¿½N,CAI,1950-05-17,M,M,ramï¿½n19@adventure-works.com,150000,4,Bachelors,Management,Y
 16600,MRS.,JANET,SUAREZ,1948-05-16,S,F,janet25@adventure-works.com,90000,4,High School,Management,Y
 16601,MRS.,TABITHA,RANA,1948-02-09,S,F,tabitha9@adventure-works.com,130000,5,High School,Management,N
 16602,MRS.,JILL,TRAVERS,1948-09-19,M,F,jill19@adventure-works.com,150000,4,High School,Management,Y
@@ -5973,7 +5973,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 17084,MR.,BYRON,SERRANO,1980-11-14,S,M,byron10@adventure-works.com,20000,0,Partial High School,Manual,N
 17085,MR.,EDWIN,DENG,1974-04-08,M,M,edwin23@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
 17086,MR.,XAVIER,ANDERSON,1973-10-09,S,M,xavier7@adventure-works.com,30000,0,High School,Manual,N
-17087,MR.,JÉSUS,DOMINGUEZ,1972-06-23,M,M,jésus11@adventure-works.com,10000,0,Partial High School,Manual,N
+17087,MR.,Jï¿½SUS,DOMINGUEZ,1972-06-23,M,M,jï¿½sus11@adventure-works.com,10000,0,Partial High School,Manual,N
 17088,MR.,WAYNE,YUAN,1972-08-01,S,M,wayne8@adventure-works.com,10000,0,Partial High School,Manual,Y
 17089,MS.,CRYSTAL,ZHU,1972-11-03,M,F,crystal15@adventure-works.com,10000,0,Partial High School,Manual,N
 17090,MS.,LESLIE,ALVAREZ,1972-08-16,S,F,leslie5@adventure-works.com,10000,0,Partial High School,Manual,N
@@ -5992,7 +5992,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 17103,MR.,FRANKLIN,XU,1972-09-14,M,M,franklin23@adventure-works.com,40000,1,Partial College,Clerical,Y
 17104,MR.,CLIFFORD,RODRIGUEZ,1972-03-07,S,M,clifford18@adventure-works.com,40000,2,Partial College,Clerical,Y
 17105,MS.,MADISON,WALKER,1971-11-26,S,F,madison23@adventure-works.com,10000,0,Partial High School,Manual,N
-17106,MS.,GINA,JIMÉNEZ,1971-03-22,S,F,gina6@adventure-works.com,10000,0,Partial High School,Manual,N
+17106,MS.,GINA,JIMï¿½NEZ,1971-03-22,S,F,gina6@adventure-works.com,10000,0,Partial High School,Manual,N
 17107,MS.,PRISCILLA,YUAN,1971-02-02,S,F,priscilla6@adventure-works.com,20000,0,Partial High School,Manual,N
 17108,MS.,SUSAN,XU,1971-09-09,S,F,susan22@adventure-works.com,20000,0,Partial High School,Manual,N
 17109,MS.,SYDNEY,WILSON,1971-05-20,S,F,sydney71@adventure-works.com,30000,0,High School,Manual,N
@@ -6082,7 +6082,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 17195,MR.,FRANKLIN,SHARMA,1944-05-22,M,M,franklin27@adventure-works.com,70000,5,High School,Professional,Y
 17196,MR.,DOUGLAS,FERNANDEZ,1944-07-27,S,M,douglas20@adventure-works.com,70000,5,High School,Professional,Y
 17197,MRS.,MINDY,NARA,1944-01-17,S,F,mindy21@adventure-works.com,90000,5,Partial College,Professional,Y
-17198,MRS.,CHERYL,JIMÉNEZ,1944-10-18,S,F,cheryl7@adventure-works.com,90000,5,Partial College,Professional,N
+17198,MRS.,CHERYL,JIMï¿½NEZ,1944-10-18,S,F,cheryl7@adventure-works.com,90000,5,Partial College,Professional,N
 17199,MR.,DENNIS,ZHOU,1945-11-08,M,M,dennis10@adventure-works.com,70000,5,High School,Professional,N
 17200,MR.,RUSSELL,SHE,1945-10-03,S,M,russell4@adventure-works.com,80000,5,Partial College,Professional,N
 17201,MR.,VINCENT,YANG,1945-11-21,S,M,vincent5@adventure-works.com,80000,5,Partial College,Professional,N
@@ -6242,7 +6242,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 17356,MS.,MARY,EVANS,1976-11-11,S,F,mary14@adventure-works.com,40000,0,High School,Skilled Manual,N
 17357,MR.,BRANDON,MILLER,1976-03-21,M,M,brandon45@adventure-works.com,40000,0,High School,Skilled Manual,Y
 17358,MS.,SYDNEY,BELL,1976-02-26,M,F,sydney7@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
-17359,MS.,MARÍA,FLORES,1975-03-08,M,F,maría35@adventure-works.com,40000,0,High School,Skilled Manual,Y
+17359,MS.,MARï¿½A,FLORES,1975-03-08,M,F,marï¿½a35@adventure-works.com,40000,0,High School,Skilled Manual,Y
 17360,MR.,KYLE,LAL,1975-01-04,M,M,kyle25@adventure-works.com,40000,0,High School,Skilled Manual,Y
 17361,MR.,BLAKE,HARRIS,1973-09-09,M,M,blake13@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
 17362,MR.,MIGUEL,COLLINS,1972-02-01,M,M,miguel45@adventure-works.com,80000,0,Bachelors,Management,Y
@@ -6531,7 +6531,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 17652,MR.,JAVIER,VAZQUEZ,1970-09-23,M,M,javier9@adventure-works.com,50000,0,Graduate Degree,Skilled Manual,N
 17653,MS.,LINDA,VAZQUEZ,1970-10-09,S,F,linda30@adventure-works.com,50000,0,Graduate Degree,Skilled Manual,Y
 17654,MRS.,CAROLINE,ALEXANDER,1975-11-03,S,F,caroline20@adventure-works.com,40000,3,Partial College,Clerical,Y
-17655,MRS.,ANGELA,SÁNCHEZ,1974-05-02,S,F,angela49@adventure-works.com,40000,3,Partial College,Clerical,Y
+17655,MRS.,ANGELA,Sï¿½NCHEZ,1974-05-02,S,F,angela49@adventure-works.com,40000,3,Partial College,Clerical,Y
 17656,MS.,CAROL,MARTINEZ,1974-02-26,S,F,carol16@adventure-works.com,30000,0,Graduate Degree,Skilled Manual,Y
 17657,MR.,NOAH,MARTIN,1975-12-24,M,M,noah59@adventure-works.com,40000,4,Partial College,Clerical,N
 17658,MRS.,JADE,HOWARD,1929-03-06,M,F,jade8@adventure-works.com,20000,2,High School,Manual,N
@@ -6760,7 +6760,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 17887,MR.,JOEL,MADAN,1958-10-20,M,M,joel7@adventure-works.com,10000,1,Bachelors,Manual,Y
 17888,MRS.,MANDY,LIU,1958-08-11,S,F,mandy5@adventure-works.com,10000,1,Bachelors,Manual,Y
 17889,MR.,BLAKE,TAYLOR,1958-06-28,M,M,blake8@adventure-works.com,20000,1,Bachelors,Manual,Y
-17890,MR.,DERRICK,JIMÉNEZ,1955-02-03,M,M,derrick5@adventure-works.com,10000,2,Partial College,Manual,Y
+17890,MR.,DERRICK,JIMï¿½NEZ,1955-02-03,M,M,derrick5@adventure-works.com,10000,2,Partial College,Manual,Y
 17891,MRS.,SHARON,LAL,1955-11-11,M,F,sharon15@adventure-works.com,10000,2,Partial College,Manual,Y
 17892,MR.,RONNIE,XU,1955-06-28,M,M,ronnie10@adventure-works.com,20000,1,Bachelors,Clerical,Y
 17894,MRS.,HAILEY,SIMMONS,1955-09-21,M,F,hailey35@adventure-works.com,20000,1,Bachelors,Clerical,Y
@@ -8097,7 +8097,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 19254,MR.,ANIBAL,SOUSA,1956-11-07,S,M,anibal1@adventure-works.com,20000,1,Bachelors,Clerical,Y
 19255,MR.,TERRANCE,SARA,1955-02-14,S,M,terrance7@adventure-works.com,10000,2,Partial College,Manual,Y
 19256,MRS.,ABIGAIL,GRIFFIN,1955-03-11,M,F,abigail46@adventure-works.com,20000,1,Bachelors,Clerical,Y
-19257,MRS.,DANA,JIMÉNEZ,1954-01-16,M,F,dana21@adventure-works.com,10000,2,Partial College,Manual,Y
+19257,MRS.,DANA,JIMï¿½NEZ,1954-01-16,M,F,dana21@adventure-works.com,10000,2,Partial College,Manual,Y
 19258,MR.,DOUGLAS,MEHTA,1954-05-21,M,M,douglas18@adventure-works.com,10000,2,Partial College,Manual,Y
 19259,MRS.,BARBARA,LIN,1937-01-22,M,F,barbara17@adventure-works.com,20000,1,Bachelors,Clerical,Y
 19260,MRS.,LATOYA,SHARMA,1939-07-08,S,F,latoya8@adventure-works.com,20000,1,Bachelors,Clerical,Y
@@ -8116,7 +8116,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 19274,MRS.,KAREN,YANG,1943-01-09,M,F,karen14@adventure-works.com,20000,2,Partial College,Manual,Y
 19275,MR.,GREGORY,RAI,1961-12-21,M,M,gregory21@adventure-works.com,20000,1,Partial College,Manual,Y
 19276,MR.,RUBEN,SAI,1961-08-10,S,M,ruben6@adventure-works.com,20000,1,Partial College,Manual,N
-19277,MR.,BILLY,JIMÉNEZ,1960-07-27,M,M,billy7@adventure-works.com,10000,1,High School,Manual,Y
+19277,MR.,BILLY,JIMï¿½NEZ,1960-07-27,M,M,billy7@adventure-works.com,10000,1,High School,Manual,Y
 19278,MR.,WILLIE,SUN,1960-07-13,S,M,willie11@adventure-works.com,20000,1,Partial College,Manual,N
 19279,MR.,OMAR,XU,1960-03-05,S,M,omar25@adventure-works.com,20000,1,Partial College,Manual,N
 19280,MR.,DARRELL,ANDERSEN,1958-08-27,M,M,darrell2@adventure-works.com,20000,2,Partial College,Manual,Y
@@ -8354,7 +8354,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 19517,MR.,MAX,GOMEZ,1975-09-22,S,M,max2@adventure-works.com,30000,0,Partial College,Clerical,N
 19518,MR.,CLIFFORD,ARUN,1975-01-10,S,M,clifford7@adventure-works.com,30000,0,Partial College,Clerical,N
 19519,MS.,BIANCA,ZHU,1973-10-18,S,F,bianca10@adventure-works.com,10000,0,Partial High School,Manual,Y
-19520,MS.,KARI,MUÑOZ,1973-02-20,M,F,kari27@adventure-works.com,20000,0,Partial High School,Manual,N
+19520,MS.,KARI,MUï¿½OZ,1973-02-20,M,F,kari27@adventure-works.com,20000,0,Partial High School,Manual,N
 19521,MS.,JAIME,DOMINGUEZ,1973-03-25,S,F,jaime14@adventure-works.com,20000,0,Partial High School,Manual,N
 19522,MR.,CHRISTIAN,POWELL,1980-02-13,M,M,christian23@adventure-works.com,20000,0,Partial High School,Manual,N
 19523,MS.,BRITTNEY,HOLT,1978-02-23,S,F,brittney4@adventure-works.com,30000,0,High School,Manual,N
@@ -8572,7 +8572,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 19738,MR.,HENRY,MARTINEZ,1940-07-25,M,M,henry19@adventure-works.com,70000,5,Graduate Degree,Management,N
 19739,MR.,LUCAS,PERRY,1940-02-02,M,M,lucas57@adventure-works.com,70000,5,Graduate Degree,Management,Y
 19740,MRS.,CONNIE,LIANG,1940-11-21,S,F,connie2@adventure-works.com,70000,5,Graduate Degree,Management,Y
-19741,MRS.,MARÍA,RIVERA,1940-11-21,S,F,maría10@adventure-works.com,80000,4,Graduate Degree,Management,Y
+19741,MRS.,MARï¿½A,RIVERA,1940-11-21,S,F,marï¿½a10@adventure-works.com,80000,4,Graduate Degree,Management,Y
 19742,MRS.,ALEXIA,RUSSELL,1941-06-11,M,F,alexia16@adventure-works.com,50000,4,Bachelors,Management,Y
 19743,MRS.,HOLLY,RANA,1941-08-10,S,F,holly10@adventure-works.com,60000,3,Graduate Degree,Management,Y
 19744,MRS.,TAMARA,CAI,1941-08-03,M,F,tamara10@adventure-works.com,60000,3,Graduate Degree,Management,Y
@@ -8733,7 +8733,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 19903,MR.,MARCUS,NELSON,1956-12-04,S,M,marcus37@adventure-works.com,100000,2,High School,Professional,Y
 19904,MRS.,JASMINE,GRAY,1956-03-14,M,F,jasmine34@adventure-works.com,120000,3,High School,Professional,Y
 19905,MRS.,CHELSEA,FERNANDEZ,1956-10-21,S,F,chelsea17@adventure-works.com,170000,3,Partial College,Professional,N
-19906,MR.,ARMANDO,MUÑOZ,1956-05-03,M,M,armando7@adventure-works.com,170000,3,High School,Professional,Y
+19906,MR.,ARMANDO,MUï¿½OZ,1956-05-03,M,M,armando7@adventure-works.com,170000,3,High School,Professional,Y
 19907,MR.,BRUCE,DIAZ,1955-10-05,M,M,bruce25@adventure-works.com,100000,2,High School,Professional,Y
 19908,MRS.,PAMELA,PRASAD,1955-07-08,S,F,pamela12@adventure-works.com,100000,2,High School,Professional,Y
 19909,MR.,GEOFFREY,CHANDRA,1955-03-09,M,M,geoffrey2@adventure-works.com,110000,3,Partial College,Professional,Y
@@ -8776,7 +8776,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 19946,MRS.,TAMARA,RAJE,1947-06-09,S,F,tamara25@adventure-works.com,120000,5,High School,Management,Y
 19947,MR.,DARRYL,LIU,1975-05-26,S,M,darryl4@adventure-works.com,70000,0,Bachelors,Professional,N
 19948,MS.,LACEY,HU,1975-10-22,S,F,lacey33@adventure-works.com,70000,0,Bachelors,Professional,Y
-19949,MS.,NIÑIA,ANAND,1976-12-26,M,F,niñia0@adventure-works.com,70000,0,Bachelors,Professional,Y
+19949,MS.,NIï¿½IA,ANAND,1976-12-26,M,F,niï¿½ia0@adventure-works.com,70000,0,Bachelors,Professional,Y
 19950,MR.,RONNIE,LU,1976-01-11,M,M,ronnie9@adventure-works.com,80000,0,Bachelors,Professional,Y
 19951,MR.,ROY,MORENO,1976-07-26,S,M,roy27@adventure-works.com,80000,0,Bachelors,Professional,N
 19952,MS.,ADRIENNE,MARTIN,1975-03-28,S,F,adrienne0@adventure-works.com,80000,0,Bachelors,Professional,Y
@@ -9264,7 +9264,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 20445,MRS.,BARBARA,DENG,1955-10-19,M,F,barbara32@adventure-works.com,80000,2,High School,Skilled Manual,Y
 20446,MR.,CLAYTON,RAI,1955-02-07,M,M,clayton35@adventure-works.com,80000,2,High School,Skilled Manual,Y
 20447,MRS.,JODI,GOEL,1956-03-02,S,F,jodi20@adventure-works.com,80000,2,High School,Skilled Manual,N
-20448,,JÉSUS,BLANCO,1956-02-22,M,NA,jésus14@adventure-works.com,80000,2,High School,Skilled Manual,Y
+20448,,Jï¿½SUS,BLANCO,1956-02-22,M,NA,jï¿½sus14@adventure-works.com,80000,2,High School,Skilled Manual,Y
 20449,MS.,RACHEL,WALKER,1976-04-07,S,F,rachel26@adventure-works.com,60000,0,Partial College,Professional,N
 20450,MR.,EDWIN,TANG,1957-02-10,S,M,edwin26@adventure-works.com,70000,2,High School,Professional,Y
 20451,MRS.,KELLI,ANAND,1957-05-15,S,F,kelli45@adventure-works.com,70000,2,High School,Professional,Y
@@ -9310,7 +9310,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 20494,MR.,JESSE,PETERSON,1943-06-14,M,M,jesse5@adventure-works.com,80000,5,Bachelors,Management,Y
 20495,MR.,WESLEY,WANG,1943-09-11,M,M,wesley1@adventure-works.com,80000,5,Bachelors,Management,N
 20496,MRS.,JADA,ROBERTS,1943-09-04,M,F,jada17@adventure-works.com,90000,5,Bachelors,Management,N
-20497,MRS.,FRANCISCO,JAVIER CASTREJÓN,1944-03-04,M,F,francisco0@adventure-works.com,30000,5,Partial High School,Clerical,N
+20497,MRS.,FRANCISCO,JAVIER CASTREJï¿½N,1944-03-04,M,F,francisco0@adventure-works.com,30000,5,Partial High School,Clerical,N
 20498,MR.,MIGUEL,PHILLIPS,1944-05-11,M,M,miguel41@adventure-works.com,40000,4,High School,Professional,N
 20499,MR.,CHRISTIAN,ROBINSON,1944-12-24,S,M,christian33@adventure-works.com,40000,4,High School,Professional,Y
 20500,MRS.,MORGAN,BUTLER,1944-04-26,M,F,morgan84@adventure-works.com,40000,4,High School,Professional,N
@@ -9542,7 +9542,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 20728,MR.,CEDRIC,CHANDE,1970-12-14,S,M,cedric33@adventure-works.com,40000,2,Partial College,Clerical,Y
 20729,MRS.,AIMEE,ZHOU,1971-10-20,M,F,aimee7@adventure-works.com,40000,2,Partial College,Clerical,N
 20730,MR.,AARON,SHAN,1971-06-15,S,M,aaron31@adventure-works.com,40000,2,Partial College,Clerical,Y
-20731,MR.,ANDRE,KOVÁR,1970-06-14,S,M,andre4@adventure-works.com,50000,0,Graduate Degree,Skilled Manual,N
+20731,MR.,ANDRE,KOVï¿½R,1970-06-14,S,M,andre4@adventure-works.com,50000,0,Graduate Degree,Skilled Manual,N
 20732,MR.,JOSHUA,WALKER,1975-03-25,S,M,joshua25@adventure-works.com,40000,3,Partial College,Clerical,Y
 20733,MRS.,SHEENA,LUO,1974-12-07,S,F,sheena5@adventure-works.com,40000,3,Partial College,Clerical,Y
 20734,MR.,LUIS,PHILLIPS,1974-07-17,M,M,luis38@adventure-works.com,50000,0,Graduate Degree,Skilled Manual,Y
@@ -9649,7 +9649,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 20838,MRS.,CHLOE,JONES,1959-04-17,S,F,chloe37@adventure-works.com,30000,3,Graduate Degree,Clerical,Y
 20839,MRS.,COURTNEY,LOPEZ,1959-04-14,S,F,courtney17@adventure-works.com,30000,3,Graduate Degree,Clerical,Y
 20840,MRS.,ALISON,XIE,1958-02-06,S,F,alison2@adventure-works.com,20000,2,Partial College,Manual,Y
-20841,MR.,JÉSUS,ALONSO,1958-11-05,S,M,jésus7@adventure-works.com,30000,1,Graduate Degree,Clerical,Y
+20841,MR.,Jï¿½SUS,ALONSO,1958-11-05,S,M,jï¿½sus7@adventure-works.com,30000,1,Graduate Degree,Clerical,Y
 20842,MR.,TYRONE,MORENO,1960-10-04,S,M,tyrone6@adventure-works.com,30000,3,Bachelors,Clerical,Y
 20843,MR.,JOSE,SHAN,1960-03-05,M,M,jose25@adventure-works.com,30000,3,Bachelors,Clerical,Y
 20844,MR.,NICOLAS,PAL,1959-03-24,M,M,nicolas10@adventure-works.com,30000,3,Bachelors,Clerical,Y
@@ -9787,7 +9787,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 20979,MRS.,DIANE,JIMENEZ,1941-10-26,M,F,diane10@adventure-works.com,20000,1,Partial College,Manual,Y
 20980,MR.,MATTHEW,MILLER,1941-08-10,S,M,matthew12@adventure-works.com,30000,1,Bachelors,Clerical,Y
 20981,MR.,CRAIG,ROMERO,1942-06-26,M,M,craig10@adventure-works.com,10000,3,Partial College,Manual,Y
-20982,MR.,ARTHUR,JIMÉNEZ,1942-02-09,S,M,arthur29@adventure-works.com,40000,1,Graduate Degree,Clerical,Y
+20982,MR.,ARTHUR,JIMï¿½NEZ,1942-02-09,S,M,arthur29@adventure-works.com,40000,1,Graduate Degree,Clerical,Y
 20983,MS.,MEREDITH,VANCE,1980-12-23,S,F,meredith2@adventure-works.com,10000,0,Partial College,Manual,N
 20984,MS.,SABRINA,RUBIO,1980-05-12,M,F,sabrina15@adventure-works.com,10000,0,Partial College,Manual,N
 20985,MS.,AUTUMN,LIU,1980-01-17,M,F,autumn4@adventure-works.com,20000,0,Bachelors,Clerical,Y
@@ -10084,7 +10084,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 21280,MR.,JUSTIN,WALKER,1978-12-23,S,M,justin51@adventure-works.com,40000,0,Partial College,Skilled Manual,N
 21281,MS.,ANDREA,HILL,1978-02-27,S,F,andrea35@adventure-works.com,60000,0,Partial College,Skilled Manual,N
 21282,MS.,JULIA,SMITH,1978-03-10,M,F,julia22@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
-21283,MR.,ORLANDO,JIMÉNEZ,1945-03-21,M,M,orlando6@adventure-works.com,20000,4,High School,Skilled Manual,Y
+21283,MR.,ORLANDO,JIMï¿½NEZ,1945-03-21,M,M,orlando6@adventure-works.com,20000,4,High School,Skilled Manual,Y
 21284,MR.,CODY,STEWART,1970-05-09,M,M,cody22@adventure-works.com,50000,1,Graduate Degree,Skilled Manual,Y
 21285,MS.,MACKENZIE,RIVERA,1963-10-15,M,F,mackenzie15@adventure-works.com,90000,0,Partial College,Professional,N
 21286,MR.,LUKE,ROY,1963-09-03,S,M,luke0@adventure-works.com,100000,0,Partial College,Professional,Y
@@ -10367,7 +10367,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 21567,MS.,CANDACE,SANCHEZ,1971-07-13,M,F,candace18@adventure-works.com,100000,0,High School,Management,N
 21568,MS.,JACQUELYN,HERNANDEZ,1971-11-21,M,F,jacquelyn4@adventure-works.com,100000,0,High School,Management,Y
 21569,MR.,BRENDAN,RAI,1970-09-14,S,M,brendan15@adventure-works.com,90000,0,Bachelors,Professional,Y
-21570,MR.,BARRY,KOVÁR,1970-07-02,M,M,barry4@adventure-works.com,100000,0,High School,Management,Y
+21570,MR.,BARRY,KOVï¿½R,1970-07-02,M,M,barry4@adventure-works.com,100000,0,High School,Management,Y
 21571,MR.,DARRYL,YANG,1970-04-25,M,M,darryl5@adventure-works.com,110000,0,High School,Management,Y
 21572,MR.,RANDALL,RAMOS,1971-04-27,M,M,randall19@adventure-works.com,130000,0,Bachelors,Management,Y
 21573,MR.,JIMMY,MUNOZ,1969-08-03,S,M,jimmy10@adventure-works.com,130000,0,Bachelors,Management,Y
@@ -10466,7 +10466,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 21670,MR.,BENJAMIN,LAL,1972-04-06,S,M,benjamin31@adventure-works.com,20000,0,Partial High School,Manual,Y
 21671,MR.,NICOLAS,JAI,1972-10-24,S,M,nicolas9@adventure-works.com,30000,0,High School,Manual,N
 21672,MR.,CRAIG,GOMEZ,1972-05-06,S,M,craig3@adventure-works.com,30000,0,High School,Manual,N
-21673,MR.,JÉSUS,GILL,1972-07-17,S,M,jésus12@adventure-works.com,30000,0,High School,Manual,N
+21673,MR.,Jï¿½SUS,GILL,1972-07-17,S,M,jï¿½sus12@adventure-works.com,30000,0,High School,Manual,N
 21674,MS.,JADA,MORRIS,1971-03-21,M,F,jada10@adventure-works.com,10000,0,Partial High School,Manual,N
 21675,MS.,ADRIANA,RANA,1971-02-10,S,F,adriana12@adventure-works.com,10000,0,Partial High School,Manual,N
 21676,MS.,VALERIE,GUO,1971-07-08,S,F,valerie19@adventure-works.com,20000,0,Partial High School,Manual,Y
@@ -10731,7 +10731,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 21941,MRS.,GAIL,MOORE,1958-02-19,S,F,gail3@adventure-works.com,60000,3,Bachelors,Professional,N
 21942,MRS.,JULIA,ROBERTS,1958-09-05,M,F,julia10@adventure-works.com,80000,5,Graduate Degree,Professional,Y
 21943,MRS.,CINDY,MEHTA,1969-08-08,S,F,cindy14@adventure-works.com,80000,4,Graduate Degree,Management,Y
-21944,MRS.,DAISY,JIMÉNEZ,1969-09-20,M,F,daisy2@adventure-works.com,90000,1,Graduate Degree,Management,Y
+21944,MRS.,DAISY,JIMï¿½NEZ,1969-09-20,M,F,daisy2@adventure-works.com,90000,1,Graduate Degree,Management,Y
 21945,MRS.,PEARLIE,RUSEK,1969-02-17,S,F,pearlie0@adventure-works.com,90000,1,Graduate Degree,Management,Y
 21946,MRS.,MICHELE,DENG,1969-01-03,M,F,michele1@adventure-works.com,90000,2,Bachelors,Professional,Y
 21947,MRS.,DIANE,ROMERO,1969-10-09,M,F,diane14@adventure-works.com,90000,2,Bachelors,Professional,Y
@@ -11222,7 +11222,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 22435,MR.,ROSS,NAVARRO,1969-06-22,S,M,ross28@adventure-works.com,10000,2,High School,Manual,Y
 22436,MR.,ROGER,RAJI,1970-09-23,S,M,roger49@adventure-works.com,30000,0,Bachelors,Clerical,Y
 22437,MS.,TRISHA,ZHENG,1970-01-27,S,F,trisha14@adventure-works.com,40000,0,Graduate Degree,Clerical,N
-22438,MR.,CASEY,JIMÉNEZ,1969-06-10,S,M,casey29@adventure-works.com,20000,0,Partial College,Manual,N
+22438,MR.,CASEY,JIMï¿½NEZ,1969-06-10,S,M,casey29@adventure-works.com,20000,0,Partial College,Manual,N
 22439,MS.,TRACY,RAJI,1969-01-02,M,F,tracy20@adventure-works.com,30000,0,Bachelors,Clerical,Y
 22440,MS.,ROBYN,SANZ,1969-05-20,S,F,robyn16@adventure-works.com,30000,0,Bachelors,Clerical,N
 22441,MRS.,ANDREA,TORRES,1969-02-20,S,F,andrea14@adventure-works.com,30000,1,Bachelors,Clerical,Y
@@ -11974,7 +11974,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 23208,MRS.,JANET,WATSON,1924-07-06,S,F,janet28@adventure-works.com,50000,1,Graduate Degree,Professional,Y
 23209,MR.,LUCAS,LEWIS,1964-06-04,S,M,lucas35@adventure-works.com,60000,4,Bachelors,Skilled Manual,Y
 23210,MR.,TIMOTHY,GRAY,1963-11-23,M,M,timothy7@adventure-works.com,70000,4,Bachelors,Professional,Y
-23211,MRS.,REBEKAH,KOVÁR,1963-05-14,M,F,rebekah4@adventure-works.com,70000,4,Bachelors,Professional,Y
+23211,MRS.,REBEKAH,KOVï¿½R,1963-05-14,M,F,rebekah4@adventure-works.com,70000,4,Bachelors,Professional,Y
 23212,MR.,JAMES,JONES,1968-04-16,S,M,james78@adventure-works.com,70000,0,Bachelors,Professional,N
 23213,MR.,NOAH,GREEN,1968-02-15,S,M,noah40@adventure-works.com,70000,0,Bachelors,Professional,N
 23214,MRS.,KAYLEE,JAMES,1963-11-21,M,F,kaylee5@adventure-works.com,70000,4,Bachelors,Professional,Y
@@ -12195,7 +12195,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 23430,MRS.,SAVANNAH,TURNER,1968-02-28,S,F,savannah27@adventure-works.com,70000,5,Bachelors,Professional,Y
 23431,MRS.,MARGARET,GUO,1968-05-11,M,F,margaret24@adventure-works.com,70000,5,Bachelors,Professional,Y
 23432,MR.,JORDAN,ROBERTS,1968-10-10,S,M,jordan58@adventure-works.com,70000,0,Bachelors,Professional,Y
-23433,,PEDRO,MUÑOZ,1968-04-09,S,NA,pedro28@adventure-works.com,70000,0,Bachelors,Professional,N
+23433,,PEDRO,MUï¿½OZ,1968-04-09,S,NA,pedro28@adventure-works.com,70000,0,Bachelors,Professional,N
 23434,MS.,KATIE,NATH,1968-02-25,S,F,katie21@adventure-works.com,70000,0,Bachelors,Professional,Y
 23435,MS.,ROSA,CHEN,1968-06-27,S,F,rosa2@adventure-works.com,70000,0,Bachelors,Professional,N
 23436,MS.,TANYA,MUNOZ,1968-01-17,S,F,tanya3@adventure-works.com,70000,0,Bachelors,Professional,Y
@@ -12396,7 +12396,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 23637,MRS.,YOLANDA,JAI,1948-10-14,M,F,yolanda10@adventure-works.com,80000,5,High School,Management,Y
 23638,MR.,NELSON,RUIZ,1948-04-18,M,M,nelson2@adventure-works.com,120000,4,High School,Management,Y
 23639,MRS.,CHRISTY,GUO,1947-05-09,M,F,christy16@adventure-works.com,120000,5,High School,Management,Y
-23640,MR.,BRUCE,JIMÉNEZ,1975-01-08,M,M,bruce28@adventure-works.com,70000,0,Bachelors,Professional,Y
+23640,MR.,BRUCE,JIMï¿½NEZ,1975-01-08,M,M,bruce28@adventure-works.com,70000,0,Bachelors,Professional,Y
 23641,MS.,MEGAN,MORRIS,1976-07-11,M,F,megan29@adventure-works.com,70000,0,Bachelors,Professional,N
 23642,MS.,ANNE,GUTIERREZ,1975-07-18,M,F,anne12@adventure-works.com,70000,0,Bachelors,Professional,N
 23643,MS.,ERICA,ZHENG,1974-11-22,S,F,erica18@adventure-works.com,70000,0,Bachelors,Professional,N
@@ -12686,7 +12686,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 23929,MRS.,KRISTIN,XIE,1964-05-09,M,F,kristin5@adventure-works.com,30000,2,Partial College,Clerical,Y
 23930,MRS.,MEAGAN,ARUN,1964-10-13,M,F,meagan7@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
 23931,MR.,REGINALD,RUIZ,1963-06-02,M,M,reginald10@adventure-works.com,30000,2,Partial College,Clerical,Y
-23932,MRS.,CARRIE,JIMÉNEZ,1963-10-02,M,F,carrie5@adventure-works.com,30000,3,Partial College,Clerical,Y
+23932,MRS.,CARRIE,JIMï¿½NEZ,1963-10-02,M,F,carrie5@adventure-works.com,30000,3,Partial College,Clerical,Y
 23933,MRS.,SABRINA,CARLSON,1963-08-04,S,F,sabrina12@adventure-works.com,30000,3,Partial College,Clerical,Y
 23934,MS.,BONNIE,ANDERSEN,1978-04-16,S,F,bonnie19@adventure-works.com,20000,0,High School,Manual,N
 23935,MS.,ALEXIS,BARNES,1976-04-23,S,F,alexis25@adventure-works.com,10000,0,Partial High School,Manual,N
@@ -12742,7 +12742,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 23985,MRS.,JANET,TORRES,1937-02-17,M,F,janet17@adventure-works.com,20000,1,Bachelors,Clerical,Y
 23986,MRS.,TANYA,TORRES,1940-04-21,M,F,tanya8@adventure-works.com,20000,1,Bachelors,Clerical,Y
 23987,MRS.,DAWN,SHARMA,1941-10-03,M,F,dawn33@adventure-works.com,30000,1,Bachelors,Clerical,Y
-23988,MR.,CESAR,SÁNCHEZ,1941-06-19,M,M,cesar20@adventure-works.com,30000,1,Bachelors,Clerical,Y
+23988,MR.,CESAR,Sï¿½NCHEZ,1941-06-19,M,M,cesar20@adventure-works.com,30000,1,Bachelors,Clerical,Y
 23989,MR.,DAMIEN,BECK,1942-02-26,S,M,damien35@adventure-works.com,30000,1,Bachelors,Clerical,N
 23990,MRS.,CLAUDIA,HUANG,1943-10-04,S,F,claudia5@adventure-works.com,10000,3,Partial College,Manual,N
 23991,MR.,TODD,ZHAO,1943-01-24,M,M,todd9@adventure-works.com,10000,3,Partial College,Manual,N
@@ -12758,7 +12758,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 24001,MR.,ARTHUR,RAMAN,1977-09-11,S,M,arthur14@adventure-works.com,10000,0,High School,Manual,N
 24002,MR.,THOMAS,HARRIS,1977-05-27,M,M,thomas75@adventure-works.com,10000,0,High School,Manual,N
 24003,MR.,WARREN,KUMAR,1977-12-20,S,M,warren16@adventure-works.com,10000,0,High School,Manual,Y
-24004,MR.,CÉSAR,RAMAN,1976-05-02,M,M,césar11@adventure-works.com,10000,0,High School,Manual,Y
+24004,MR.,Cï¿½SAR,RAMAN,1976-05-02,M,M,cï¿½sar11@adventure-works.com,10000,0,High School,Manual,Y
 24005,MR.,JULIO,JIMENEZ,1979-05-07,S,M,julio5@adventure-works.com,20000,0,Bachelors,Clerical,N
 24006,MR.,PETER,DENG,1979-10-04,S,M,peter9@adventure-works.com,20000,0,Bachelors,Clerical,Y
 24008,MS.,MONIQUE,MUNOZ,1979-01-17,M,F,monique3@adventure-works.com,20000,0,Bachelors,Clerical,N
@@ -12767,7 +12767,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 24011,MRS.,MORGAN,THOMPSON,1961-06-06,S,F,morgan37@adventure-works.com,30000,3,Graduate Degree,Clerical,Y
 24012,MR.,JAMES,LEWIS,1960-05-12,S,M,james94@adventure-works.com,10000,1,High School,Manual,N
 24013,MR.,JAY,RUIZ,1960-11-23,M,M,jay31@adventure-works.com,10000,1,High School,Manual,Y
-24014,MR.,GEOFFREY,KOVÁR,1960-04-12,M,M,geoffrey4@adventure-works.com,20000,1,Partial College,Manual,Y
+24014,MR.,GEOFFREY,KOVï¿½R,1960-04-12,M,M,geoffrey4@adventure-works.com,20000,1,Partial College,Manual,Y
 24015,MRS.,JENNA,HALL,1960-03-16,S,F,jenna21@adventure-works.com,20000,1,Partial College,Manual,N
 24016,MRS.,KARLA,SHARMA,1959-05-22,S,F,karla10@adventure-works.com,10000,1,High School,Manual,Y
 24017,MRS.,REBEKAH,LOPEZ,1959-11-26,S,F,rebekah16@adventure-works.com,20000,2,Partial College,Manual,Y
@@ -13014,7 +13014,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 24264,MR.,RICHARD,LONG,1977-10-28,S,M,richard64@adventure-works.com,70000,0,Partial College,Skilled Manual,N
 24265,MR.,SETH,MCDONALD,1977-09-13,M,M,seth29@adventure-works.com,70000,0,Partial College,Skilled Manual,N
 24266,MR.,MELVIN,CHANDER,1949-02-25,M,M,melvin14@adventure-works.com,20000,2,Partial High School,Clerical,Y
-24267,MR.,JÉSUS,HERNANDEZ,1950-04-12,M,M,jésus4@adventure-works.com,10000,2,Partial High School,Clerical,Y
+24267,MR.,Jï¿½SUS,HERNANDEZ,1950-04-12,M,M,jï¿½sus4@adventure-works.com,10000,2,Partial High School,Clerical,Y
 24268,MRS.,MEREDITH,GILL,1950-10-24,M,F,meredith37@adventure-works.com,10000,2,Partial High School,Clerical,Y
 24269,MR.,TODD,LU,1950-09-02,M,M,todd10@adventure-works.com,10000,2,Partial High School,Clerical,Y
 24270,MRS.,LATASHA,ORTEGA,1950-05-15,M,F,latasha22@adventure-works.com,20000,2,Partial High School,Clerical,Y
@@ -13024,7 +13024,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 24274,MR.,SHAUN,SHAN,1951-02-03,M,M,shaun11@adventure-works.com,20000,2,Partial High School,Clerical,Y
 24275,MR.,LUCAS,RIVERA,1980-07-17,M,M,lucas80@adventure-works.com,30000,0,Partial College,Skilled Manual,N
 24276,MRS.,KAITLYN,NELSON,1952-07-09,S,F,kaitlyn7@adventure-works.com,20000,2,Partial High School,Clerical,Y
-24277,MR.,DONALD,KOVÁR,1952-05-05,S,M,donald6@adventure-works.com,20000,3,Partial High School,Clerical,Y
+24277,MR.,DONALD,KOVï¿½R,1952-05-05,S,M,donald6@adventure-works.com,20000,3,Partial High School,Clerical,Y
 24278,MR.,CEDRIC,XU,1953-02-05,M,M,cedric11@adventure-works.com,40000,2,Partial College,Skilled Manual,N
 24280,MR.,PETER,SHAN,1954-10-01,S,M,peter16@adventure-works.com,40000,3,Partial High School,Clerical,N
 24281,MRS.,MARIE,SURI,1954-04-13,S,F,marie4@adventure-works.com,40000,3,Partial High School,Clerical,N
@@ -13123,7 +13123,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 24375,MRS.,PAMELA,SCHMIDT,1965-10-03,M,F,pamela13@adventure-works.com,60000,3,Bachelors,Professional,Y
 24376,MR.,TOMMY,BLACK,1968-07-13,M,M,tommy17@adventure-works.com,70000,5,Bachelors,Professional,Y
 24377,MR.,RICHARD,WOOD,1968-09-24,S,M,richard58@adventure-works.com,70000,0,Bachelors,Professional,N
-24378,MS.,BRANDI,JIMÉNEZ,1968-06-04,S,F,brandi6@adventure-works.com,70000,0,Bachelors,Professional,N
+24378,MS.,BRANDI,JIMï¿½NEZ,1968-06-04,S,F,brandi6@adventure-works.com,70000,0,Bachelors,Professional,N
 24379,MR.,NOAH,JENKINS,1965-06-23,S,M,noah3@adventure-works.com,70000,0,Bachelors,Professional,N
 24380,MR.,MAURICE,YUAN,1965-10-13,M,M,maurice7@adventure-works.com,70000,0,Bachelors,Professional,N
 24381,MR.,DANNY,SERRANO,1965-05-14,S,M,danny17@adventure-works.com,70000,0,Bachelors,Professional,Y
@@ -13223,7 +13223,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 24476,MR.,JARED,BROOKS,1961-03-19,M,M,jared3@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
 24477,MR.,WARREN,ZENG,1961-02-26,S,M,warren35@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
 24478,MRS.,LINDSAY,SHARMA,1961-03-05,S,F,lindsay9@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
-24479,MRS.,DESIRÉE,MORENO,1961-02-03,S,F,desirée2@adventure-works.com,70000,5,Partial College,Skilled Manual,Y
+24479,MRS.,DESIRï¿½E,MORENO,1961-02-03,S,F,desirï¿½e2@adventure-works.com,70000,5,Partial College,Skilled Manual,Y
 24480,MRS.,KELLI,LIU,1958-08-22,S,F,kelli4@adventure-works.com,90000,2,Bachelors,Professional,Y
 24481,MR.,DENNIS,SUN,1958-07-17,M,M,dennis14@adventure-works.com,90000,2,Bachelors,Management,N
 24482,MR.,ROY,RAMOS,1958-08-16,M,M,roy37@adventure-works.com,100000,4,Bachelors,Management,Y
@@ -13250,13 +13250,13 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 24503,MRS.,LAURA,MA,1941-05-26,M,F,laura21@adventure-works.com,40000,2,Bachelors,Management,Y
 24504,,EDDIE,NAVARRO,1941-08-03,M,NA,eddie10@adventure-works.com,40000,2,Bachelors,Management,N
 24505,MR.,CLIFFORD,GONZALEZ,1943-12-11,M,M,clifford17@adventure-works.com,40000,2,Bachelors,Management,Y
-24506,MRS.,JAIME,MUÑOZ,1943-02-20,M,F,jaime8@adventure-works.com,60000,2,Graduate Degree,Management,Y
+24506,MRS.,JAIME,MUï¿½OZ,1943-02-20,M,F,jaime8@adventure-works.com,60000,2,Graduate Degree,Management,Y
 24507,MS.,MADISON,GARCIA,1976-09-07,S,F,madison17@adventure-works.com,40000,0,High School,Skilled Manual,N
 24508,MR.,ALEX,PHILLIPS,1976-09-13,S,M,alex34@adventure-works.com,40000,0,High School,Skilled Manual,N
 24509,MS.,EMMA,LONG,1976-11-09,S,F,emma55@adventure-works.com,40000,0,High School,Skilled Manual,Y
 24510,MR.,CHRISTIAN,MARTINEZ,1976-07-11,M,M,christian53@adventure-works.com,40000,0,High School,Skilled Manual,N
 24511,MR.,LOGAN,HALL,1976-05-02,S,M,logan49@adventure-works.com,40000,0,Partial College,Skilled Manual,N
-24512,MS.,ADRIENNE,JIMÉNEZ,1976-08-13,S,F,adrienne5@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
+24512,MS.,ADRIENNE,JIMï¿½NEZ,1976-08-13,S,F,adrienne5@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
 24513,MR.,ALEJANDRO,DENG,1976-05-25,M,M,alejandro27@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
 24514,MR.,JESSE,PHILLIPS,1976-03-17,M,M,jesse30@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
 24515,MR.,IAN,JONES,1976-05-19,S,M,ian4@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
@@ -14133,12 +14133,12 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 25396,MR.,XAVIER,RAMIREZ,1971-02-20,S,M,xavier73@adventure-works.com,70000,3,Graduate Degree,Professional,N
 25397,MR.,LUCAS,BRADLEY,1971-04-28,M,M,lucas50@adventure-works.com,70000,3,Graduate Degree,Professional,Y
 25398,MR.,THOMAS,JONES,1971-06-24,S,M,thomas63@adventure-works.com,70000,3,Graduate Degree,Professional,N
-25399,MR.,JORGE,LEITÃO,1971-12-14,M,M,jorge0@adventure-works.com,70000,3,Graduate Degree,Professional,Y
+25399,MR.,JORGE,LEITï¿½O,1971-12-14,M,M,jorge0@adventure-works.com,70000,3,Graduate Degree,Professional,Y
 25400,MR.,KYLE,JAI,1971-10-15,M,M,kyle28@adventure-works.com,80000,1,Graduate Degree,Professional,Y
 25401,MR.,GABRIEL,YOUNG,1971-04-01,M,M,gabriel46@adventure-works.com,80000,1,Graduate Degree,Professional,N
 25402,MRS.,MARIA,HUGHES,1969-06-21,M,F,maria34@adventure-works.com,60000,1,Graduate Degree,Professional,Y
 25403,MRS.,JASMINE,CLARK,1969-05-13,S,F,jasmine16@adventure-works.com,60000,1,Graduate Degree,Professional,N
-25404,MR.,JOSÉ,LOPEZ,1968-05-23,S,M,josé60@adventure-works.com,70000,2,Bachelors,Skilled Manual,Y
+25404,MR.,JOSï¿½,LOPEZ,1968-05-23,S,M,josï¿½60@adventure-works.com,70000,2,Bachelors,Skilled Manual,Y
 25405,MR.,BRANDON,WAGNER,1968-04-17,M,M,brandon21@adventure-works.com,70000,2,Bachelors,Skilled Manual,Y
 25406,MRS.,CASEY,ANDERSEN,1968-09-22,M,F,casey14@adventure-works.com,70000,2,Bachelors,Skilled Manual,Y
 25407,MR.,TONY,ANAND,1968-11-07,S,M,tony24@adventure-works.com,70000,2,Bachelors,Skilled Manual,N
@@ -14269,7 +14269,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 25535,MRS.,BRANDI,NAVARRO,1936-07-21,S,F,brandi10@adventure-works.com,20000,1,Graduate Degree,Clerical,Y
 25536,MRS.,REBEKAH,SAI,1936-10-26,S,F,rebekah6@adventure-works.com,20000,1,Graduate Degree,Clerical,Y
 25537,MR.,NATHAN,PHILLIPS,1936-02-07,S,M,nathan35@adventure-works.com,20000,1,Graduate Degree,Clerical,N
-25538,MR.,ANDY,JIMÉNEZ,1962-07-06,S,M,andy10@adventure-works.com,30000,5,Graduate Degree,Clerical,Y
+25538,MR.,ANDY,JIMï¿½NEZ,1962-07-06,S,M,andy10@adventure-works.com,30000,5,Graduate Degree,Clerical,Y
 25539,MR.,MATHEW,ORTEGA,1962-07-21,M,M,mathew18@adventure-works.com,30000,5,Graduate Degree,Clerical,Y
 25540,MR.,RODNEY,ALONSO,1962-07-08,M,M,rodney4@adventure-works.com,30000,4,Graduate Degree,Clerical,Y
 25541,MR.,GARY,HERNANDEZ,1958-09-22,M,M,gary14@adventure-works.com,10000,1,Bachelors,Manual,N
@@ -14300,7 +14300,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 25566,MS.,KRISTINE,NAVARRO,1977-09-26,M,F,kristine11@adventure-works.com,20000,0,Partial College,Manual,Y
 25567,MR.,DENNIS,ZHENG,1977-07-12,S,M,dennis21@adventure-works.com,20000,0,Partial College,Manual,N
 25568,MS.,CHRISTY,WU,1977-09-21,M,F,christy6@adventure-works.com,20000,0,Partial College,Manual,Y
-25569,MR.,JÉSUS,ALVAREZ,1943-07-18,S,M,jésus5@adventure-works.com,10000,3,Partial College,Manual,N
+25569,MR.,Jï¿½SUS,ALVAREZ,1943-07-18,S,M,jï¿½sus5@adventure-works.com,10000,3,Partial College,Manual,N
 25570,MRS.,ROBYN,TORRES,1943-05-17,S,F,robyn9@adventure-works.com,20000,1,Partial College,Manual,Y
 25571,MR.,RICHARD,LOPEZ,1943-06-09,S,M,richard23@adventure-works.com,30000,1,Bachelors,Clerical,N
 25572,MR.,ALLEN,GONZALEZ,1943-09-03,S,M,allen17@adventure-works.com,30000,1,Bachelors,Clerical,N
@@ -14336,7 +14336,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 25602,MR.,JERMAINE,SARA,1969-01-05,S,M,jermaine8@adventure-works.com,60000,0,Graduate Degree,Skilled Manual,Y
 25603,MS.,DAWN,GUO,1969-03-24,S,F,dawn19@adventure-works.com,60000,0,Graduate Degree,Skilled Manual,Y
 25604,MR.,MARTIN,VANCE,1969-03-27,S,M,martin9@adventure-works.com,60000,0,Graduate Degree,Skilled Manual,N
-25605,MRS.,ABBY,KOVÁR,1952-04-22,S,F,abby3@adventure-works.com,20000,2,Partial College,Manual,N
+25605,MRS.,ABBY,KOVï¿½R,1952-04-22,S,F,abby3@adventure-works.com,20000,2,Partial College,Manual,N
 25606,MRS.,MEREDITH,FERNANDEZ,1952-11-09,S,F,meredith15@adventure-works.com,20000,2,Partial College,Manual,Y
 25607,MRS.,SHARON,CHANDER,1952-11-26,S,F,sharon21@adventure-works.com,20000,2,Partial College,Manual,N
 25608,MRS.,SANDRA,ZENG,1952-08-03,S,F,sandra29@adventure-works.com,20000,2,Partial College,Manual,N
@@ -14347,7 +14347,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 25613,MR.,ERIK,RUIZ,1968-12-19,M,M,erik3@adventure-works.com,20000,1,Partial College,Manual,Y
 25614,MRS.,DEANNA,SUBRAM,1968-05-16,M,F,deanna16@adventure-works.com,20000,1,Partial College,Manual,Y
 25615,MRS.,DESTINY,HALL,1968-04-28,M,F,destiny22@adventure-works.com,30000,1,Bachelors,Clerical,Y
-25616,MR.,JÉSUS,RUBIO,1968-02-27,M,M,jésus20@adventure-works.com,30000,1,Bachelors,Clerical,Y
+25616,MR.,Jï¿½SUS,RUBIO,1968-02-27,M,M,jï¿½sus20@adventure-works.com,30000,1,Bachelors,Clerical,Y
 25618,MR.,ALBERT,HERNANDEZ,1968-06-24,M,M,albert6@adventure-works.com,30000,1,Bachelors,Clerical,N
 25619,MR.,RAFAEL,RAJI,1968-03-23,M,M,rafael45@adventure-works.com,30000,1,Bachelors,Clerical,Y
 25620,MR.,ALEJANDRO,LU,1968-04-27,M,M,alejandro14@adventure-works.com,90000,4,Bachelors,Management,Y
@@ -14711,7 +14711,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 25985,MR.,JUSTIN,HARRIS,1963-05-27,M,M,justin41@adventure-works.com,60000,3,Graduate Degree,Professional,N
 25986,MRS.,ISABEL,BRYANT,1963-01-24,M,F,isabel17@adventure-works.com,60000,3,Graduate Degree,Professional,N
 25987,MR.,HUNTER,KUMAR,1962-05-25,M,M,hunter23@adventure-works.com,40000,3,High School,Skilled Manual,Y
-25988,MR.,VICTOR,MUÑOZ,1962-01-18,S,M,victor9@adventure-works.com,40000,4,High School,Skilled Manual,Y
+25988,MR.,VICTOR,MUï¿½OZ,1962-01-18,S,M,victor9@adventure-works.com,40000,4,High School,Skilled Manual,Y
 25989,MR.,JEREMY,PRICE,1962-01-18,M,M,jeremy21@adventure-works.com,70000,1,Bachelors,Professional,Y
 25990,MRS.,JENNA,PARKER,1962-08-22,S,F,jenna7@adventure-works.com,70000,1,Bachelors,Professional,N
 25991,MRS.,ARIANNA,HAYES,1962-03-12,M,F,arianna20@adventure-works.com,70000,1,Partial College,Skilled Manual,Y
@@ -15103,7 +15103,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 26382,MR.,DALE,XU,1957-11-06,S,M,dale4@adventure-works.com,130000,2,Partial College,Professional,N
 26383,MR.,RONNIE,HU,1956-02-16,S,M,ronnie17@adventure-works.com,110000,2,Partial College,Professional,Y
 26384,MR.,JON,ZHU,1956-08-03,M,M,jon34@adventure-works.com,110000,2,Partial College,Professional,Y
-26385,MR.,JAVIER,MUÑOZ,1956-06-28,S,M,javier3@adventure-works.com,120000,3,High School,Professional,N
+26385,MR.,JAVIER,MUï¿½OZ,1956-06-28,S,M,javier3@adventure-works.com,120000,3,High School,Professional,N
 26386,MRS.,KELLI,ZHAO,1956-04-20,S,F,kelli11@adventure-works.com,160000,2,High School,Professional,N
 26387,MR.,DALTON,ROBERTS,1956-12-22,S,M,dalton38@adventure-works.com,170000,3,Partial College,Professional,N
 26388,MR.,WAYNE,JAI,1955-08-26,M,M,wayne13@adventure-works.com,90000,2,High School,Professional,Y
@@ -15163,7 +15163,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 26443,MS.,KATHRYN,SHE,1971-07-26,M,F,kathryn0@adventure-works.com,100000,0,High School,Management,Y
 26444,MS.,PAMELA,LOPEZ,1970-10-05,S,F,pamela20@adventure-works.com,100000,0,Partial High School,Professional,Y
 26445,MR.,AIDAN,FOSTER,1970-09-06,S,M,aidan17@adventure-works.com,110000,0,High School,Management,N
-26446,MR.,JAMIE,MUÑOZ,1970-03-09,S,M,jamie31@adventure-works.com,130000,5,High School,Management,Y
+26446,MR.,JAMIE,MUï¿½OZ,1970-03-09,S,M,jamie31@adventure-works.com,130000,5,High School,Management,Y
 26447,MR.,NOAH,RUSSELL,1971-04-20,S,M,noah17@adventure-works.com,110000,0,High School,Management,N
 26448,MRS.,KARA,YUAN,1948-12-26,M,F,kara7@adventure-works.com,30000,4,High School,Professional,Y
 26449,MR.,JARED,GRAY,1948-03-11,M,M,jared9@adventure-works.com,30000,4,High School,Professional,Y
@@ -15379,7 +15379,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 26662,MRS.,LORI,ALVAREZ,1968-09-13,S,F,lori7@adventure-works.com,60000,2,Bachelors,Professional,Y
 26663,MRS.,JOANNA,SERRANO,1967-06-24,S,F,joanna15@adventure-works.com,60000,2,Bachelors,Professional,N
 26664,MRS.,AMY,ZHU,1967-11-21,M,F,amy20@adventure-works.com,70000,5,Bachelors,Professional,Y
-26665,MR.,JÉSUS,VAZQUEZ,1967-10-27,S,M,jésus13@adventure-works.com,70000,5,Bachelors,Professional,Y
+26665,MR.,Jï¿½SUS,VAZQUEZ,1967-10-27,S,M,jï¿½sus13@adventure-works.com,70000,5,Bachelors,Professional,Y
 26666,MRS.,ASHLEE,BECK,1969-03-11,S,F,ashlee4@adventure-works.com,110000,1,Graduate Degree,Management,N
 26667,MRS.,JILLIAN,PATEL,1969-11-19,S,F,jillian3@adventure-works.com,120000,1,Graduate Degree,Management,Y
 26668,MRS.,TONI,MADAN,1967-06-24,M,F,toni7@adventure-works.com,70000,5,Bachelors,Professional,Y
@@ -15546,7 +15546,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 26838,MRS.,CASSIE,SHAN,1965-12-04,S,F,cassie9@adventure-works.com,20000,2,High School,Manual,N
 26839,MR.,JEREMY,NELSON,1965-02-18,S,M,jeremy12@adventure-works.com,20000,2,High School,Manual,Y
 26840,MR.,ERIC,YANG,1965-03-19,M,M,eric35@adventure-works.com,20000,2,High School,Manual,Y
-26841,MR.,ROBERTO,JIMÉNEZ,1965-08-13,M,M,roberto5@adventure-works.com,30000,1,Bachelors,Skilled Manual,Y
+26841,MR.,ROBERTO,JIMï¿½NEZ,1965-08-13,M,M,roberto5@adventure-works.com,30000,1,Bachelors,Skilled Manual,Y
 26842,MRS.,FELICIA,ALONSO,1964-06-25,M,F,felicia7@adventure-works.com,10000,5,Partial High School,Manual,Y
 26843,MR.,NOAH,GONZALEZ,1929-02-08,S,M,noah35@adventure-works.com,10000,4,High School,Manual,N
 26844,MRS.,ERIN,COOPER,1930-05-27,S,F,erin13@adventure-works.com,20000,2,Partial College,Manual,N
@@ -15684,10 +15684,10 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 26979,MRS.,CHRISTY,JAI,1974-06-24,M,F,christy28@adventure-works.com,40000,1,Bachelors,Skilled Manual,N
 26980,MR.,MARC,SUAREZ,1972-07-08,M,M,marc23@adventure-works.com,10000,0,Partial High School,Manual,Y
 26981,MS.,AUDREY,SUAREZ,1972-08-21,S,F,audrey21@adventure-works.com,10000,0,Partial High School,Manual,Y
-26982,MR.,JOSE,MUÑOZ,1972-04-05,S,M,jose35@adventure-works.com,20000,0,Partial High School,Manual,N
+26982,MR.,JOSE,MUï¿½OZ,1972-04-05,S,M,jose35@adventure-works.com,20000,0,Partial High School,Manual,N
 26983,MRS.,ADRIANA,VANCE,1973-03-22,M,F,adriana4@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
 26984,MR.,MANUEL,PRASAD,1973-11-09,M,M,manuel8@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
-26985,MR.,JÉSUS,DIAZ,1973-09-11,M,M,jésus3@adventure-works.com,40000,1,Bachelors,Skilled Manual,N
+26985,MR.,Jï¿½SUS,DIAZ,1973-09-11,M,M,jï¿½sus3@adventure-works.com,40000,1,Bachelors,Skilled Manual,N
 26986,MRS.,RILEY,WATSON,1973-06-16,M,F,riley20@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
 26987,MR.,ROY,LOPEZ,1973-09-20,M,M,roy17@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
 26988,MRS.,BRANDY,SRINI,1973-08-22,M,F,brandy4@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
@@ -15714,7 +15714,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 27009,MRS.,ERICA,LU,1971-08-26,S,F,erica11@adventure-works.com,40000,2,Partial College,Clerical,N
 27010,MRS.,JORDYN,PATTERSON,1975-11-14,M,F,jordyn10@adventure-works.com,40000,3,Partial College,Clerical,Y
 27011,MR.,KEVIN,POWELL,1975-12-19,M,M,kevin11@adventure-works.com,40000,3,Partial College,Clerical,Y
-27012,MRS.,ANNE,JIMÉNEZ,1974-11-23,S,F,anne6@adventure-works.com,40000,3,Partial College,Clerical,N
+27012,MRS.,ANNE,JIMï¿½NEZ,1974-11-23,S,F,anne6@adventure-works.com,40000,3,Partial College,Clerical,N
 27013,MRS.,ALISHA,YUAN,1974-09-27,M,F,alisha31@adventure-works.com,40000,3,Partial College,Clerical,Y
 27014,MR.,LUKE,HUGHES,1966-08-23,M,M,luke30@adventure-works.com,80000,0,Graduate Degree,Skilled Manual,Y
 27015,MS.,JESSICA,TORRES,1966-11-17,S,F,jessica16@adventure-works.com,80000,0,Graduate Degree,Skilled Manual,N
@@ -16232,7 +16232,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 27535,MR.,IAN,COOK,1964-04-26,S,M,ian79@adventure-works.com,60000,5,Bachelors,Skilled Manual,Y
 27536,MRS.,VICTORIA,WILSON,1964-05-28,M,F,victoria8@adventure-works.com,60000,4,Bachelors,Skilled Manual,Y
 27537,MRS.,AMANDA,BRYANT,1963-02-22,M,F,amanda39@adventure-works.com,70000,4,Bachelors,Professional,Y
-27538,MR.,JOSÉ,JACKSON,1963-02-14,M,M,josé73@adventure-works.com,70000,4,Bachelors,Professional,Y
+27538,MR.,JOSï¿½,JACKSON,1963-02-14,M,M,josï¿½73@adventure-works.com,70000,4,Bachelors,Professional,Y
 27539,MR.,SAMUEL,WINSTON,1968-07-09,S,M,samuel69@adventure-works.com,70000,0,Bachelors,Professional,N
 27540,MS.,JACQUELINE,BUTLER,1968-11-03,S,F,jacqueline15@adventure-works.com,70000,0,Bachelors,Professional,N
 27541,MS.,SAMANTHA,MARTIN,1968-10-12,S,F,samantha16@adventure-works.com,70000,0,Bachelors,Professional,Y
@@ -16581,7 +16581,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 27890,MR.,KYLE,EVANS,1960-08-10,S,M,kyle30@adventure-works.com,20000,1,Partial College,Manual,N
 27891,MR.,CARLOS,HOWARD,1960-10-22,M,M,carlos13@adventure-works.com,20000,1,Partial College,Manual,N
 27892,MRS.,ISABELLA,FOSTER,1960-10-11,M,F,isabella26@adventure-works.com,30000,3,Graduate Degree,Clerical,N
-27893,MR.,CLINTON,JIMÉNEZ,1959-11-21,S,M,clinton2@adventure-works.com,10000,1,High School,Manual,N
+27893,MR.,CLINTON,JIMï¿½NEZ,1959-11-21,S,M,clinton2@adventure-works.com,10000,1,High School,Manual,N
 27894,MR.,GERALD,SAI,1959-08-06,S,M,gerald35@adventure-works.com,20000,2,Partial College,Manual,Y
 27895,MR.,COLIN,PAL,1958-03-07,S,M,colin35@adventure-works.com,20000,2,Partial College,Manual,N
 27896,MR.,ORLANDO,TORRES,1960-09-27,M,M,orlando11@adventure-works.com,30000,3,Bachelors,Clerical,Y
@@ -16803,10 +16803,10 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 28112,MS.,SAVANNAH,EVANS,1980-07-22,M,F,savannah21@adventure-works.com,30000,0,Partial College,Skilled Manual,Y
 28113,MRS.,AMANDA,POWELL,1952-04-13,S,F,amanda30@adventure-works.com,30000,3,High School,Skilled Manual,Y
 28114,MR.,JARED,COX,1953-06-13,S,M,jared12@adventure-works.com,40000,2,Partial College,Skilled Manual,Y
-28115,MRS.,DEANNA,JIMÉNEZ,1953-03-07,M,F,deanna31@adventure-works.com,40000,2,Partial College,Skilled Manual,Y
+28115,MRS.,DEANNA,JIMï¿½NEZ,1953-03-07,M,F,deanna31@adventure-works.com,40000,2,Partial College,Skilled Manual,Y
 28116,MRS.,SABRINA,DOMINGUEZ,1953-02-05,S,F,sabrina8@adventure-works.com,40000,2,Partial College,Skilled Manual,Y
 28117,,CRAIG,VAZQUEZ,1954-08-15,S,NA,craig14@adventure-works.com,40000,3,Partial High School,Clerical,N
-28118,MRS.,BRIANA,JIMÉNEZ,1955-07-11,M,F,briana5@adventure-works.com,80000,2,Partial College,Skilled Manual,Y
+28118,MRS.,BRIANA,JIMï¿½NEZ,1955-07-11,M,F,briana5@adventure-works.com,80000,2,Partial College,Skilled Manual,Y
 28119,MR.,CURTIS,MA,1955-04-10,S,M,curtis12@adventure-works.com,80000,2,Partial College,Skilled Manual,Y
 28120,MR.,PEDRO,ALVAREZ,1955-07-20,S,M,pedro25@adventure-works.com,80000,2,Partial College,Skilled Manual,Y
 28121,MS.,JULIA,ROBINSON,1975-02-15,M,F,julia40@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
@@ -17007,7 +17007,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 28321,MR.,ARTURO,WU,1960-05-10,M,M,arturo7@adventure-works.com,60000,1,Partial College,Skilled Manual,N
 28322,MR.,WILLIE,CHEN,1964-01-23,S,M,willie3@adventure-works.com,70000,0,Bachelors,Professional,N
 28323,MR.,NATHAN,MOORE,1963-06-02,S,M,nathan66@adventure-works.com,70000,0,Bachelors,Professional,N
-28324,MR.,JÉSUS,MARTIN,1962-10-05,M,M,jésus1@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
+28324,MR.,Jï¿½SUS,MARTIN,1962-10-05,M,M,jï¿½sus1@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
 28325,MR.,DREW,LAL,1961-07-15,S,M,drew9@adventure-works.com,60000,1,Partial College,Skilled Manual,N
 28326,MRS.,CARLA,LOPEZ,1958-11-05,S,F,carla19@adventure-works.com,90000,2,Bachelors,Professional,Y
 28327,MRS.,TABITHA,SERRANO,1957-12-17,S,F,tabitha37@adventure-works.com,70000,1,Partial College,Skilled Manual,N
@@ -17140,7 +17140,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 28456,MR.,TODD,XU,1961-06-21,M,M,todd11@adventure-works.com,20000,1,Graduate Degree,Clerical,Y
 28457,MR.,BRUCE,GONZALEZ,1935-10-01,S,M,bruce18@adventure-works.com,10000,1,Graduate Degree,Clerical,N
 28458,MRS.,CASEY,SHE,1962-06-09,S,F,casey0@adventure-works.com,30000,4,Graduate Degree,Clerical,Y
-28459,MRS.,DANA,MUÑOZ,1958-05-14,M,F,dana23@adventure-works.com,20000,1,Graduate Degree,Clerical,N
+28459,MRS.,DANA,MUï¿½OZ,1958-05-14,M,F,dana23@adventure-works.com,20000,1,Graduate Degree,Clerical,N
 28460,MR.,NATHAN,POWELL,1958-06-04,M,M,nathan4@adventure-works.com,20000,1,Bachelors,Manual,Y
 28461,MR.,JOE,DOMINGUEZ,1957-09-17,M,M,joe36@adventure-works.com,10000,1,Partial College,Manual,Y
 28462,MRS.,KENDRA,SERRANO,1957-03-22,M,F,kendra16@adventure-works.com,10000,1,Partial College,Manual,N
@@ -17199,7 +17199,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 28516,MR.,VINCENT,LIN,1970-04-13,S,M,vincent7@adventure-works.com,30000,0,Bachelors,Clerical,N
 28517,MR.,TROY,GONZALEZ,1969-07-26,S,M,troy20@adventure-works.com,20000,0,Partial College,Manual,N
 28518,MS.,TAMMY,SANCHEZ,1969-11-17,S,F,tammy21@adventure-works.com,30000,0,Bachelors,Clerical,N
-28519,MR.,JÉSUS,RAMOS,1969-10-15,M,M,jésus16@adventure-works.com,30000,1,Bachelors,Clerical,Y
+28519,MR.,Jï¿½SUS,RAMOS,1969-10-15,M,M,jï¿½sus16@adventure-works.com,30000,1,Bachelors,Clerical,Y
 28520,MS.,SUSAN,LIANG,1969-04-05,M,F,susan27@adventure-works.com,40000,0,Graduate Degree,Clerical,Y
 28521,MR.,BRADLEY,TANG,1969-09-15,S,M,bradley6@adventure-works.com,40000,0,Graduate Degree,Clerical,N
 28522,MS.,ROSA,MA,1969-07-07,M,F,rosa15@adventure-works.com,60000,0,Graduate Degree,Skilled Manual,Y
@@ -17594,7 +17594,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 28917,MRS.,SANDRA,ZHOU,1948-02-03,S,F,sandra15@adventure-works.com,80000,5,High School,Management,N
 28918,MRS.,GINA,BLANCO,1948-04-07,M,F,gina16@adventure-works.com,130000,4,High School,Management,N
 28919,MRS.,KRYSTAL,WAGNER,1947-06-05,M,F,krystal1@adventure-works.com,90000,5,Partial High School,Skilled Manual,Y
-28920,MRS.,RENÉE,ALVAREZ,1947-09-21,S,F,renée4@adventure-works.com,120000,4,High School,Management,N
+28920,MRS.,RENï¿½E,ALVAREZ,1947-09-21,S,F,renï¿½e4@adventure-works.com,120000,4,High School,Management,N
 28921,MR.,COREY,DENG,1947-05-17,M,M,corey1@adventure-works.com,120000,5,High School,Management,N
 28922,MR.,BRENT,YE,1975-11-13,M,M,brent9@adventure-works.com,60000,0,Bachelors,Professional,Y
 28923,MR.,ROBERTO,HERNANDEZ,1975-08-07,S,M,roberto3@adventure-works.com,70000,0,Bachelors,Professional,N
@@ -17605,7 +17605,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 28928,MS.,MARGARET,WU,1976-06-19,S,F,margaret13@adventure-works.com,80000,0,Bachelors,Professional,N
 28929,MS.,MARIE,FERNANDEZ,1975-08-12,S,F,marie17@adventure-works.com,70000,0,Bachelors,Professional,N
 28930,MR.,JARROD,KAPOOR,1975-05-27,M,M,jarrod1@adventure-works.com,80000,0,Bachelors,Professional,Y
-28931,MR.,DARREN,JIMÉNEZ,1975-11-06,M,M,darren27@adventure-works.com,80000,0,Bachelors,Professional,Y
+28931,MR.,DARREN,JIMï¿½NEZ,1975-11-06,M,M,darren27@adventure-works.com,80000,0,Bachelors,Professional,Y
 28932,MR.,MARSHALL,ASHE,1974-08-27,M,M,marshall42@adventure-works.com,70000,0,Bachelors,Professional,Y
 28933,MS.,COLLEEN,RAI,1974-11-10,M,F,colleen40@adventure-works.com,70000,0,Bachelors,Professional,Y
 28934,MR.,RICARDO,NARA,1974-10-04,M,M,ricardo16@adventure-works.com,70000,0,Bachelors,Professional,N
@@ -17782,7 +17782,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 29110,MS.,SYDNEY,SMITH,1973-04-11,S,F,sydney64@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
 29111,MR.,DALE,ANAND,1973-11-25,S,M,dale20@adventure-works.com,70000,0,Partial College,Professional,N
 29112,MR.,EDWARD,POWELL,1976-06-24,S,M,edward57@adventure-works.com,60000,0,Partial College,Professional,N
-29113,MRS.,ALÍCIA,ANAND,1956-05-26,S,F,alícia18@adventure-works.com,80000,2,High School,Skilled Manual,N
+29113,MRS.,ALï¿½CIA,ANAND,1956-05-26,S,F,alï¿½cia18@adventure-works.com,80000,2,High School,Skilled Manual,N
 29114,MR.,LEVI,RAMAN,1956-09-19,M,M,levi11@adventure-works.com,80000,2,High School,Skilled Manual,Y
 29115,MRS.,JACQUELYN,MUNOZ,1957-02-08,M,F,jacquelyn7@adventure-works.com,70000,2,High School,Skilled Manual,Y
 29116,MRS.,JANELLE,PATEL,1958-05-08,M,F,janelle3@adventure-works.com,100000,1,Bachelors,Management,Y
@@ -17979,7 +17979,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 29310,MR.,ARMANDO,GUTIERREZ,1963-10-23,S,M,armando11@adventure-works.com,70000,0,Bachelors,Professional,N
 29311,MRS.,MARIE,CARLSON,1962-05-10,S,F,marie42@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
 29312,MRS.,COLLEEN,SHE,1962-04-18,S,F,colleen24@adventure-works.com,70000,5,Partial College,Skilled Manual,Y
-29313,MR.,JÉSUS,SANZ,1961-10-08,M,M,jésus19@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
+29313,MR.,Jï¿½SUS,SANZ,1961-10-08,M,M,jï¿½sus19@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
 29314,MRS.,MEREDITH,MALHOTRA,1961-11-06,M,F,meredith3@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
 29315,MRS.,JILL,GOMEZ,1958-10-11,M,F,jill8@adventure-works.com,90000,2,Bachelors,Professional,Y
 29316,MR.,MAX,ROMERO,1958-11-22,S,M,max9@adventure-works.com,90000,2,Bachelors,Professional,N
@@ -18066,7 +18066,7 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 29398,MR.,BRUCE,SURI,1965-07-20,S,M,bruce0@adventure-works.com,40000,0,Bachelors,Professional,N
 29399,MS.,JANET,GOMEZ,1965-02-03,S,F,janet6@adventure-works.com,40000,0,Bachelors,Professional,Y
 29400,MR.,MARVIN,BROWNING,1965-10-24,M,M,marvin16@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
-29401,MR.,JÉSUS,GOMEZ,1965-11-01,M,M,jésus2@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
+29401,MR.,Jï¿½SUS,GOMEZ,1965-11-01,M,M,jï¿½sus2@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
 29402,MR.,DAMIEN,ANDERSEN,1964-04-21,S,M,damien29@adventure-works.com,30000,2,Partial College,Clerical,N
 29403,MR.,ERIK,ROMERO,1964-07-05,M,M,erik9@adventure-works.com,40000,1,Bachelors,Skilled Manual,Y
 29404,MRS.,CHLOE,ROSS,1963-05-06,S,F,chloe70@adventure-works.com,30000,3,Partial College,Clerical,N
@@ -18146,10 +18146,4 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 29480,MRS.,NINA,RAJI,1960-11-10,S,F,nina21@adventure-works.com,30000,3,Graduate Degree,Clerical,Y
 29481,MR.,IVAN,SURI,1960-01-05,S,M,ivan0@adventure-works.com,30000,3,Graduate Degree,Clerical,N
 29482,MR.,CLAYTON,ZHANG,1959-03-05,M,M,clayton0@adventure-works.com,30000,3,Bachelors,Clerical,Y
-29483,MR.,JÉSUS,NAVARRO,1959-12-08,M,M,jésus9@adventure-works.com,30000,0,Bachelors,Clerical,Y
-30---,m,,,1900-01-01,,,,,,,,
-30---,m,,,1900-01-01,,,,,,,,
-30---,m,,,1900-01-01,,,,,,,,
-,,,,,,,,,,,,
-Export date 20230101 14:59:17,,,,,,,,,,,,
-Source AW_Cust_Master,,,,,,,,,,,,
+29483,MR.,Jï¿½SUS,NAVARRO,1959-12-08,M,M,jï¿½sus9@adventure-works.com,30000,0,Bachelors,Clerical,Y
